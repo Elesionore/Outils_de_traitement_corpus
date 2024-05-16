@@ -1,0 +1,4000 @@
+Hotel Name: Ritz Paris
+Star Rating: 5
+Price Range: 2379 USD
+Description: Located around 10 minutes' drive from Eiffel Tower, the 5-star luxury Ritz Paris features a buffet breakfast.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 205
+----------------------------------------
+Hotel Name: Four Seasons Hotel George V Paris
+Star Rating: 5
+Price Range: 2158 USD
+Description: The business Four Seasons Hotel George V is set around 0.3 miles from Champs-Elysees and encourages relaxation with a hot tub and sauna facilities.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 230
+----------------------------------------
+Hotel Name: The Westin Paris - Vendome
+Star Rating: 4
+Price Range: 554 USD
+Description: Opened in 1878, the 4-star eco-friendly Westin Paris - Vendome welcomes guests in the 1st arr. district, boasting a prime position near a metro station.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 243
+----------------------------------------
+Hotel Name: Pullman Paris Tour Eiffel
+Star Rating: 4
+Price Range: 439 USD
+Description: Featuring fitness classes and spa therapy, the 4-star eco-friendly Pullman Paris Tour Eiffel in Paris is centrally located around 2.5 miles from Sainte-Chapelle.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 1531
+----------------------------------------
+Hotel Name: Hotel Plaza Athenee - Dorchester Collection
+Star Rating: 5
+Price Range: 1626 USD
+Description: Located less than 9 minutes by foot from Champs-Elysees and within 1.8 miles of Louvre Museum, the luxury Plaza Athenee - Dorchester Collection Paris features fitness classes and hammam.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 200
+----------------------------------------
+Hotel Name: Hotel Regina Louvre
+Star Rating: 5
+Price Range: 757 USD
+Description: Located in a trendy district near a subway station, the 5-star luxury Regina Louvre Paris offers 107 rooms and a lounge bar.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 485
+----------------------------------------
+Hotel Name: The Hoxton, Paris
+Star Rating: 4
+Price Range: 536 USD
+Description: Louvre Museum is also set within 1 miles of the smoke free Hoxton.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 244
+----------------------------------------
+Hotel Name: Relais Christine
+Star Rating: 5
+Price Range: 427 USD
+Description: Located 9 minutes by foot from Cathedrale Notre-Dame de Paris and near a subway station, the 5-star Relais Christine offers cozy rooms and an a private garden garden.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 228
+----------------------------------------
+Hotel Name: Pullman Paris Montparnasse
+Star Rating: 4
+Price Range: 296 USD
+Description: Located close to a metro station, the 32-story Pullman Paris Montparnasse offers 957 rooms with the classic decor and an à la carte restaurant.
+Location: Paris, France
+Rating Value: 8.6
+Rating Count: 1126
+----------------------------------------
+Hotel Name: Hotel De Crillon
+Star Rating: 5
+Price Range: 2196 USD
+Description: The comfortable 5-star De Crillon Paris is located 25 minutes' drive from Orly airport and offers a swimming pool as well as a fitness center.
+Location: Paris, France
+Rating Value: 8.6
+Rating Count: 189
+----------------------------------------
+Hotel Name: Le Meurice - Dorchester Collection
+Star Rating: 5
+Price Range: 1569 USD
+Description: Located around 0.4 miles from Place de la Concorde, the elegant 5-star Le Meurice - Dorchester Collection Paris features fitness classes, massage therapy and various recreational opportunities near a metro station.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 192
+----------------------------------------
+Hotel Name: Hotel West-End
+Star Rating: 4
+Price Range: 438 USD
+Description: Situated in the very heart of Paris and within a 5-minute drive of Champ de Mars, the 4-star West-End offers 48 rooms.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 250
+----------------------------------------
+Hotel Name: Le Pavillon De La Reine & Spa
+Star Rating: 5
+Price Range: 847 USD
+Description: Situated in the 3rd arr. district only 7 minutes' walk from Picasso National Museum, the charming Le Pavillon De La Reine & Spa Paris has 63 rooms along with a hot tub and a wellness facility.
+Location: Paris, France
+Rating Value: 8.6
+Rating Count: 294
+----------------------------------------
+Hotel Name: Grand Hotel Du Palais Royal
+Star Rating: 5
+Price Range: 191 USD
+Description: Centrally situated within a 10-minute drive of Sacre-Coeur, the boutique Grand Hotel Du Palais Royal Paris boasts fitness classes and spa therapy.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 717
+----------------------------------------
+Hotel Name: Novotel Paris Les Halles
+Star Rating: 4
+Price Range: 291 USD
+Description: Featuring a setting in a shopping area within 0.4 miles of The Centre Pompidou, the wonderful 4-star Novotel Paris Les Halles Paris includes 285 rooms along with fitness classes and entertainment activities.
+Location: Paris, France
+Rating Value: 8.6
+Rating Count: 1273
+----------------------------------------
+Hotel Name: Hyatt Regency Paris Etoile
+Star Rating: 4
+Price Range: 372 USD
+Description: The Hyatt Regency Paris Etoile is a refined 4-star property set within 1.5 miles of Quai Branly Museum and 25 minutes by foot from Paris Museum of Modern Art.
+Location: Paris, France
+Rating Value: 8.6
+Rating Count: 2635
+----------------------------------------
+Hotel Name: Grand Powers Hotel
+Star Rating: 5
+Price Range: 886 USD
+Description: Situated in the heart of Paris and 10 minutes' drive from Luxembourg Gardens, the 4-star Grand Powers offers 60 rooms.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 335
+----------------------------------------
+Hotel Name: Le Meridien Etoile
+Star Rating: 4
+Price Range: 267 USD
+Description: Boasting a health club, a sundeck, and spa therapy, the stylish Le Meridien Etoile Paris with city views offers 1025 rooms near a subway station.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 706
+----------------------------------------
+Hotel Name: Hotel Du Collectionneur
+Star Rating: 5
+Price Range: 700 USD
+Description: Situated in the very heart of Paris and 1.6 miles from Basilique du Sacre-Coeur de Montmartre, the 5-star designer Du Collectionneur offers 478 rooms.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 705
+----------------------------------------
+Hotel Name: L'Hotel
+Star Rating: 5
+Price Range: 482 USD
+Description: Located in the historic district of Paris merely 9 minutes' stroll from Tuileries Garden, the 5-star luxury L'Hotel features a swimming pool and the lounge bar.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 217
+----------------------------------------
+Hotel Name: Intercontinental Paris Le Grand, An Ihg Hotel
+Star Rating: 5
+Price Range: 302 USD
+Description: Located in the very heart of Paris, just 7 minutes by foot from The Madeleine Church and within walking distance of Colonne Vendome, the luxury Intercontinental Paris Le Grand, An Ihg offers fitness classes, massage therapy and various recreational opportunities.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 426
+----------------------------------------
+Hotel Name: Hotel Du Louvre, In The Unbound Collection By Hyatt
+Star Rating: 5
+Price Range: 615 USD
+Description: Located in the fashion 1st arr. district near a subway station, the 5-star Du Louvre, In The Unbound Collection By Hyatt Paris features European dishes available.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 619
+----------------------------------------
+Hotel Name: Hotel Lutetia
+Star Rating: 5
+Price Range: 1868 USD
+Description: Offering an indoor swimming pool, the grand Lutetia is 0.8 miles from Montparnasse Tower.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 514
+----------------------------------------
+Hotel Name: Hotel San Regis
+Star Rating: 5
+Price Range: 1024 USD
+Description: Positioned near a subway station, the 5-star luxury San Regis Paris has classic rooms together with an a winter garden garden, and guests can enjoy access to.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 214
+----------------------------------------
+Hotel Name: Hotel La Comtesse
+Star Rating: 4
+Price Range: 177 USD
+Description: Featuring a location in a fashionable neighbourhood, the La Comtesse Paris boasts 40 rooms and an à la carte restaurant, about an 11-minute walk from the grassy Champ de Mars.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 399
+----------------------------------------
+Hotel Name: Hotel Brighton - Esprit De France
+Star Rating: 4
+Price Range: 413 USD
+Description: Set about a 25-minute walk from the medieval catholic Cathedrale Notre-Dame de Paris, the rooms in the 4-star pet-friendly Brighton - Esprit De France have views of garden.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 457
+----------------------------------------
+Hotel Name: Hotel Bel Ami
+Star Rating: 5
+Price Range: 316 USD
+Description: Situated in the heart of Paris and approximately 10 minutes' drive from Champ de Mars, the exclusive 5-star Bel Ami offers 108 rooms.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 363
+----------------------------------------
+Hotel Name: Hotel Pont Royal Paris
+Star Rating: 5
+Price Range: 389 USD
+Description: Near the 5-star Pont Royal Paris, there is a metro station and guests can easily reach Musee d'Orsay which is just 9 minutes' stroll from from the 5-star Pont Royal Paris.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 223
+----------------------------------------
+Hotel Name: Hyatt Paris Madeleine
+Star Rating: 5
+Price Range: 559 USD
+Description: Offering 85 rooms with views of the courtyard, the cozy 5-star Hyatt Paris Madeleine Paris is set in the 8th arr. district of Paris, within 25 minutes' walk of Louvre Museum.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 184
+----------------------------------------
+Hotel Name: Mercure Paris Centre Tour Eiffel
+Star Rating: 4
+Price Range: 205 USD
+Description: Situated within close distance of the River Seine, the 4-star Mercure Paris Centre Tour Eiffel features the hotel's recreational facilities and a garden.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 1189
+----------------------------------------
+Hotel Name: Hotel D'Aubusson
+Star Rating: 5
+Price Range: 419 USD
+Description: Sitting within 0.9 miles of Musee d'Orsay and adjacent to a subway station, the 5-star luxury D'Aubusson Paris offers spa therapy and entertainment activities.
+Location: Paris, France
+Rating Value: 8.6
+Rating Count: 436
+----------------------------------------
+Hotel Name: Sofitel Paris Le Faubourg
+Star Rating: 5
+Price Range: 1135 USD
+Description: Guests can use a traditional Hammam and a steam room at the 5-star designer Sofitel Paris Le Faubourg with an indoor garden near a metro station.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 247
+----------------------------------------
+Hotel Name: Sofitel Le Scribe Paris Opera
+Star Rating: 5
+Price Range: 561 USD
+Description: Being set 400 feet from Fragonard Musee du Parfum and near a metro station, the Sofitel Le Scribe Paris Opera, dated back to 1860, offers a traditional Hammam and a hot tub on site.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 395
+----------------------------------------
+Hotel Name: Hotel Le Walt By Inwood Hotels
+Star Rating: 4
+Price Range: 151 USD
+Description: Set in the lively 7th arr. district, the sublime 4-star Le Walt offers rooms with pleasant views.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 256
+----------------------------------------
+Hotel Name: Mandarin Oriental, Paris
+Star Rating: 5
+Price Range: 1559 USD
+Description: The Mandarin Oriental, Paris, positioned in the 1st arr. district near a subway station, offers an indoor garden.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 121
+----------------------------------------
+Hotel Name: Novotel Paris Centre Tour Eiffel
+Star Rating: 4
+Price Range: 195 USD
+Description: Set in the heart of Paris, the perfect 4-star Novotel Paris Centre Tour Eiffel features a swimming pool and has an à la carte restaurant onsite.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 1351
+----------------------------------------
+Hotel Name: Hotel Raphael
+Star Rating: 5
+Price Range: 652 USD
+Description: Comprising spacious rooms along with a traditional Hammam and sauna facilities, the 5-star luxurious Raphael Paris features a central location near a subway station.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 251
+----------------------------------------
+Hotel Name: Cler Hotel
+Star Rating: 3
+Price Range: 416 USD
+Description: The surrounding area includes Champ de Mars, merely a 10-minute walk away, and La Tour-Maubourg subway station 800 feet from the Cler.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 207
+----------------------------------------
+Hotel Name: Hotel Madison
+Star Rating: 4
+Price Range: 224 USD
+Description: The delightful Madison offers a lounge bar and 50 rooms, along with an exceptional location a 5-minute walk from Saint-Sulpice.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 379
+----------------------------------------
+Hotel Name: Paris Marriott Champs Elysees Hotel
+Star Rating: 5
+Price Range: 757 USD
+Description: Set in a business neighbourhood in close proximity to Champs-Elysees, the Marriott Champs Elysees features an à la carte restaurant.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 157
+----------------------------------------
+Hotel Name: Hotel Duquesne Eiffel
+Star Rating: 3
+Price Range: 180 USD
+Description: Located within 5 minutes' walk of Saint Louis of Les Invalids Cathedral and approximately a 25-minute walk from Louvre Museum, the charming Duquesne Eiffel features various recreational opportunities and entertainment activities.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 317
+----------------------------------------
+Hotel Name: Castille Paris - Starhotels Collezione
+Star Rating: 5
+Price Range: 486 USD
+Description: The comfortable 5-star Castille Paris - Starhotels Collezione Paris in the 1st arr. district of Paris, less than 9 minutes by foot from Place de la Concorde, boasts 108 cozy rooms and an authentic restaurant.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 387
+----------------------------------------
+Hotel Name: Hotel Napoleon Paris
+Star Rating: 5
+Price Range: 628 USD
+Description: Right next to the Napoleon, there is a subway station and guests can easily reach Champs-Elysees which is a mere 9 minutes' walk from the Napoleon.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 668
+----------------------------------------
+Hotel Name: Crowne Plaza Paris Republique, An Ihg Hotel
+Star Rating: 4
+Price Range: 135 USD
+Description: Ideally located in the lively district of Paris within 450 feet of Place de la Republique, the 4-star Crowne Plaza Paris Republique, An Ihg has 328 rooms.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 975
+----------------------------------------
+Hotel Name: Elysees Union
+Star Rating: 3
+Price Range: 187 USD
+Description: Situated in the heart of Paris and around 20 minutes' walk from Eiffel Tower, the wonderful 3-star Elysees Union offers 63 rooms.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 749
+----------------------------------------
+Hotel Name: Le Narcisse Blanc
+Star Rating: 5
+Price Range: 882 USD
+Description: Featuring a swimming pool, the 5-star luxury Le Narcisse Blanc Paris in the 7th arr. district boasts 37 rooms.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 126
+----------------------------------------
+Hotel Name: Les Jardins Du Marais
+Star Rating: 4
+Price Range: 338 USD
+Description: The 4-star historical Les Jardins Du Marais, positioned in a trendy district near a subway station, offers an a private garden garden.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 632
+----------------------------------------
+Hotel Name: Citadines Tour Eiffel Paris
+Star Rating: None
+Price Range: 274 USD
+Description: Offering a restaurant and a lobby area, the smoke free Citadines Tour Eiffel lies in a residential area, only 800 feet from Marche Grenelle and within a 10-minute drive of Louvre Museum.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 356
+----------------------------------------
+Hotel Name: Splendid Etoile
+Star Rating: 4
+Price Range: 416 USD
+Description: Located near a subway station and within 1.5 miles of Eiffel Tower, the 4-star Splendid Etoile Paris offers spa therapy and various recreational opportunities.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 284
+----------------------------------------
+Hotel Name: Hotel De L'Abbaye
+Star Rating: 4
+Price Range: 304 USD
+Description: Placed 5 minutes' stroll from Saint Germain des Pres Quarter and in the center of Paris, the comfortable De L'Abbaye offers 43 rooms.
+Location: Paris, France
+Rating Value: 8.6
+Rating Count: 183
+----------------------------------------
+Hotel Name: Victoria Palace Hotel
+Star Rating: 4
+Price Range: 431 USD
+Description: Comprising 93 rooms in the very heart of Paris, the Victoria Palace lies within a 10-minute drive of Champs-Elysees.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 294
+----------------------------------------
+Hotel Name: Le Bristol Paris - An Oetker Collection Hotel
+Star Rating: 5
+Price Range: 2117 USD
+Description: The 5-star Le Bristol Paris - An Oetker Collection, positioned in the 8th arr. district near a subway station, offers a French garden.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 157
+----------------------------------------
+Hotel Name: Courtyard By Marriott Paris Gare De Lyon
+Star Rating: 4
+Price Range: 229 USD
+Description: The Courtyard By Marriott Paris Gare De Lyon is nestled near a shopping district just 10 minutes' walk from Capitainerie du Port de l'Arsenal de la Bastille Marina.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 254
+----------------------------------------
+Hotel Name: Hotel Montalembert
+Star Rating: 5
+Price Range: 484 USD
+Description: Located approximately 1.7 miles from Sainte-Chapelle, the charming Montalembert Paris features massage therapy and entertainment activities for guests' convenience.
+Location: Paris, France
+Rating Value: 8.0
+Rating Count: 137
+----------------------------------------
+Hotel Name: Plaza Tour Eiffel
+Star Rating: 4
+Price Range: 352 USD
+Description: Located less than 6 minutes by foot from Place du Trocadero, the 4-star Plaza Tour Eiffel has 41 rooms, and lies near a metro station.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 222
+----------------------------------------
+Hotel Name: Hilton Paris Opera
+Star Rating: 4
+Price Range: 386 USD
+Description: The 4-star luxurious Hilton Paris Opera is ideally located in a business district and has 268 rooms with views of the city.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 541
+----------------------------------------
+Hotel Name: Hotel D'Orsay - Esprit De France
+Star Rating: 4
+Price Range: 385 USD
+Description: Offering baggage storage and a restaurant, the smoke-free D'Orsay - Esprit De France Paris lies in the 7th arr. district of Paris, 25 minutes by foot from Arc de Triomphe and within 1.5 miles of Eiffel Tower.
+Location: Paris, France
+Rating Value: 8.6
+Rating Count: 556
+----------------------------------------
+Hotel Name: Hotel Du Cadran
+Star Rating: 4
+Price Range: 157 USD
+Description: The attractive Du Cadran Paris offers 41 rooms in a prestigious area of the city near a subway station.
+Location: Paris, France
+Rating Value: 8.6
+Rating Count: 382
+----------------------------------------
+Hotel Name: Moxy Paris Bastille
+Star Rating: 3
+Price Range: 323 USD
+Description: The 3-star Moxy Paris Bastille Paris is nestled near the entertainment district of Paris, around 5 minutes by foot from Galerie Modus.
+Location: Paris, France
+Rating Value: 8.6
+Rating Count: 1495
+----------------------------------------
+Hotel Name: Juliana Hotel Paris
+Star Rating: 5
+Price Range: 634 USD
+Description: One can enjoy a prime location and a traditional Hammam and sauna facilities while staying at the Juliana Hotel near a metro station.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 157
+----------------------------------------
+Hotel Name: Hotel Beige
+Star Rating: 4
+Price Range: 225 USD
+Description: Located within 0.3 miles of Wall of Love, the 4-star typical Beige Paris features 34 rooms with views of the city.
+Location: Paris, France
+Rating Value: 8.0
+Rating Count: 309
+----------------------------------------
+Hotel Name: Hotel Les Bains Paris
+Star Rating: 5
+Price Range: 730 USD
+Description: Located in the 3rd arr. district 5 minutes by foot from Metiers Art Museum, the Les Bains features a plunge swimming pool and the lounge bar.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 136
+----------------------------------------
+Hotel Name: Renaissance Paris Republique Hotel & Spa
+Star Rating: 5
+Price Range: 485 USD
+Description: Boasting a location 400 feet from Jacques Bonsergent subway station, the elegant 5-star Renaissance Paris Republique Hotel & Spa offers an à la carte restaurant along with a traditional Hammam, a Jacuzzi and a hot tub.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 103
+----------------------------------------
+Hotel Name: Hotel De Nell
+Star Rating: 5
+Price Range: 280 USD
+Description: The surrounding area includes Grevin Museum, only a 6-minute walk away, and Grands Boulevards subway station just 5 minutes by foot from the 5-star boutique De Nell Paris.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 199
+----------------------------------------
+Hotel Name: Paris France Hotel
+Star Rating: 3
+Price Range: 112 USD
+Description: Near the France Paris, there is a subway station and guests can easily reach Metiers Art Museum which is merely 5 minutes' walk from from the France Paris.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 670
+----------------------------------------
+Hotel Name: Citadines Les Halles Paris
+Star Rating: None
+Price Range: 205 USD
+Description: The 4-star Citadines Les Halles Paris features fitness classes and entertainment activities, and is situated in the living 1st arr. district, near a bus stop.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 995
+----------------------------------------
+Hotel Name: Hotel Wallace - Orso Hotels
+Star Rating: 4
+Price Range: 191 USD
+Description: Offering a privileged location near a subway station, the comfortable Wallace - Orso Hotels Paris features fitness classes and entertainment activities.
+Location: Paris, France
+Rating Value: 7.8
+Rating Count: 324
+----------------------------------------
+Hotel Name: Le Cinq Codet
+Star Rating: 5
+Price Range: 518 USD
+Description: Boasting a quiet location in the 7th arr. district of Paris, the trendy 5-star Le Cinq Codet Paris features spa therapy and various recreational opportunities.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 166
+----------------------------------------
+Hotel Name: Chouchou Hotel
+Star Rating: 4
+Price Range: 504 USD
+Description: The surrounding area includes Pinacotheque de Paris, a 7-minute walk away, and Chaussee d'Antin - La Fayette subway station only 550 feet from the Chouchou.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 235
+----------------------------------------
+Hotel Name: Maison Astor Paris, Curio Collection By Hilton
+Star Rating: 4
+Price Range: 212 USD
+Description: The Maison Astor Paris, Curio Collection By Hilton Paris is perfectly located in the fashion district of Paris and has 131 rooms with views of the city.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 151
+----------------------------------------
+Hotel Name: Le Littre
+Star Rating: 4
+Price Range: 196 USD
+Description: Offering 90 rooms with views of the tower, the charming Le Littre Paris is set in the shopping district of Paris, about 1.8 miles from Grand Palais.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 427
+----------------------------------------
+Hotel Name: Passy Eiffel
+Star Rating: 3
+Price Range: 136 USD
+Description: Staying at the 3-star pet-friendly Passy Eiffel, guests can discover the residential area within 0.4 miles of Place du Trocadero.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 451
+----------------------------------------
+Hotel Name: Shangri-La Paris
+Star Rating: 5
+Price Range: 1457 USD
+Description: The exclusive 5-star Shangri-La is located in a shopping area near a subway station, boasting 101 rooms along with a steam room, an indoor pool and locker rooms.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 132
+----------------------------------------
+Hotel Name: Paris Marriott Opera Ambassador Hotel
+Star Rating: 4
+Price Range: 215 USD
+Description: The perfect Marriott Opera Ambassador is located within a short distance of a business district within 2.1 miles of Arc de Triomphe.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 373
+----------------------------------------
+Hotel Name: Maison Colbert Member Of Melia Collection
+Star Rating: 5
+Price Range: 215 USD
+Description: Near the superior Maison Colbert Member Of Melia Collection, there is a subway station and guests can easily reach Cathedrale Notre-Dame de Paris which is within 0.2 miles of the superior Maison Colbert Member Of Melia Collection.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 197
+----------------------------------------
+Hotel Name: Kimpton - St Honore Paris, An Ihg Hotel
+Star Rating: 5
+Price Range: 800 USD
+Description: Located within 0.2 miles of Fragonard Musee du Parfum and within 450 feet of Opera subway station, the 5-star Kimpton - St Honore Paris, An Ihg Paris features fitness classes, hammam and entertainment activities.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 102
+----------------------------------------
+Hotel Name: Hotel Elysia By Inwood Hotels
+Star Rating: 5
+Price Range: 755 USD
+Description: Guests of the 5-star Elysia By Inwood Hotels can relax in a lounge bar and enjoy a traditional Hammam, a hot tub and sauna facilities, while it boasts a setting near a subway station.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 213
+----------------------------------------
+Hotel Name: Hotel Relais Bosquet By Malone
+Star Rating: 3
+Price Range: 244 USD
+Description: Boasting views of the city, along with various recreational opportunities and entertainment activities, the charming Relais Bosquet By Malone Paris is set near a subway station.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 441
+----------------------------------------
+Hotel Name: Hotel Providence
+Star Rating: 4
+Price Range: 406 USD
+Description: Thanks to its convenient location, the 4-star Providence is around a 7-minute stroll from Chocolate museum in Paris and there is a metro station near the 4-star Providence.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 7
+----------------------------------------
+Hotel Name: Hotel La Bourdonnais By Inwood Hotels
+Star Rating: 4
+Price Range: 717 USD
+Description: Located 8 minutes by foot from Champ de Mars, the charming La Bourdonnais By Inwood Hotels Paris has 53 rooms, and lies near a subway station.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 667
+----------------------------------------
+Hotel Name: Citadines Saint-Germain-Des-Pres Paris
+Star Rating: None
+Price Range: 234 USD
+Description: Offering 204 rooms with views of the river, the smoke free Citadines Saint-Germain-Des-Pres Paris is set in an entertainment area, an 18-minute walk from The Centre Pompidou.
+Location: Paris, France
+Rating Value: 8.6
+Rating Count: 1007
+----------------------------------------
+Hotel Name: Hotel Adele & Jules
+Star Rating: 4
+Price Range: 291 USD
+Description: The 4-star smoke-free Adele & Jules Paris features fitness classes, various recreational opportunities and entertainment activities, and is situated in a commercial district, in walking distance from a subway station.
+Location: Paris, France
+Rating Value: 7.8
+Rating Count: 387
+----------------------------------------
+Hotel Name: Renaissance Paris Arc De Triomphe Hotel
+Star Rating: 5
+Price Range: 293 USD
+Description: Located within 0.4 miles of Arc de Triomphe, the Renaissance Paris Arc De Triomphe has 118 rooms, and lies near a metro station.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 298
+----------------------------------------
+Hotel Name: Hotel Monge
+Star Rating: 4
+Price Range: 381 USD
+Description: Located merely 9 minutes by foot from Pantheon and within 5 minutes' walk of Place Monge subway station, the Monge features hammam and entertainment activities.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 176
+----------------------------------------
+Hotel Name: La Demeure Montaigne
+Star Rating: 5
+Price Range: 564 USD
+Description: Offering a traditional Hammam, a hot tub and sauna facilities together with an in-house bar, the 5-star La Demeure Montaigne boasts its setting within 10 minutes' walk of Alma - Marceau metro station.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 276
+----------------------------------------
+Hotel Name: Melia Paris Vendome
+Star Rating: 4
+Price Range: 354 USD
+Description: Featuring a location in a trendy district, the elegant Melia Paris Vendome boasts 83 rooms and an à la carte restaurant, 0.7 miles from Louvre Museum.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 246
+----------------------------------------
+Hotel Name: Sinner Paris
+Star Rating: 5
+Price Range: 541 USD
+Description: Located in the 3rd arr. district of Paris and around a 25-minute walk from Louvre Museum, as well as near a subway station, the luxury Sinner Paris offers massage therapy and entertainment activities.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 115
+----------------------------------------
+Hotel Name: K+K Hotel Cayre Saint Germain Des Pres
+Star Rating: 4
+Price Range: 1609 USD
+Description: The 4-star K+K Hotel Cayre Saint Germain Des Pres, lodged in the 7th arr. district of Paris, boasts a lounge bar and views of the garden.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 426
+----------------------------------------
+Hotel Name: Hotel Vernet Champs Elysees Paris
+Star Rating: 5
+Price Range: 55 USD
+Description: The family-run Vernet Champs Elysees Paris is situated near the shopping district of Paris approximately a 6-minute walk from Arc de Triomphe.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 245
+----------------------------------------
+Hotel Name: Hotel Muguet
+Star Rating: 3
+Price Range: 202 USD
+Description: Louvre Museum is 1.8 miles from the 3-star Muguet Paris and Sainte-Chapelle is about 1.6 miles away.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 316
+----------------------------------------
+Hotel Name: Hotel Westminster
+Star Rating: 4
+Price Range: 434 USD
+Description: Set within 650 feet of Opera underground station, the pet-friendly Westminster offers views of the courtyard and has a steam room and sauna facilities onsite.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 436
+----------------------------------------
+Hotel Name: Hotel Alfred Sommier
+Star Rating: 5
+Price Range: 369 USD
+Description: Boasting a quiet location in the entertainment 8th arr. district close to a metro station, the prestigious 5-star Alfred Sommier features fitness classes and entertainment activities on site.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 249
+----------------------------------------
+Hotel Name: Garden-Elysee
+Star Rating: 4
+Price Range: 157 USD
+Description: Featuring an a winter garden garden, the Garden-Elysee Paris is set in a central location, within 0.4 miles of Place du Trocadero.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 390
+----------------------------------------
+Hotel Name: Hotel Du Jeu De Paume
+Star Rating: 4
+Price Range: 201 USD
+Description: Located 5 minutes' stroll from Ile Saint-Louis, 1.5 miles from the formal 28-hectare Tuileries Garden, the eco-friendly Du Jeu De Paume Paris features fitness classes and entertainment activities along with 30 rooms.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 148
+----------------------------------------
+Hotel Name: Esprit Saint Germain
+Star Rating: 5
+Price Range: 463 USD
+Description: Nestled in an entertainment district, only 5 minutes by foot from Senate, the 5-star luxury Esprit Saint Germain features a steam room and sauna facilities.
+Location: Paris, France
+Rating Value: 8.6
+Rating Count: 181
+----------------------------------------
+Hotel Name: Hotel Trianon Rive Gauche
+Star Rating: 4
+Price Range: 126 USD
+Description: Thanks to its quiet location, the stylish 4-star Trianon Rive Gauche Paris is only 8 minutes by foot from Pantheon and there is a metro station near the stylish 4-star Trianon Rive Gauche Paris.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 1265
+----------------------------------------
+Hotel Name: Bulgari Hotel Paris
+Star Rating: 5
+Price Range: 2050 USD
+Description: Offering Turkish steam bath, a hot tub and an outdoor swimming pool together with a lounge bar, the Bulgari Hotel Paris boasts its setting about 5 minutes' stroll from Alma - Marceau metro station.
+Location: Paris, France
+Rating Value: 8.0
+Rating Count: 36
+----------------------------------------
+Hotel Name: Hotel Saint Germain
+Star Rating: 4
+Price Range: 109 USD
+Description: Placed at the footsteps of boutiques, bakeries and a market, and 1.4 miles from Champ de Mars, the welcoming 4-star Saint Germain features a restaurant and a storage room.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 280
+----------------------------------------
+Hotel Name: Hotel Left Bank Saint Germain
+Star Rating: 3
+Price Range: 177 USD
+Description: The surrounding area includes Cluny Museum, approximately 0.4 miles away, and Odeon subway station within 400 feet of the charming Left Bank Saint Germain.
+Location: Paris, France
+Rating Value: 8.4
+Rating Count: 532
+----------------------------------------
+Hotel Name: Le Belmont Paris
+Star Rating: 4
+Price Range: 178 USD
+Description: Offering fitness classes, facials and massage therapy, the stylish 4-star Le Belmont lies in a shopping area of Paris, approximately a 25-minute walk from Musee d'Orsay and approximately a 20-minute walk from Eiffel Tower.
+Location: Paris, France
+Rating Value: 8.2
+Rating Count: 403
+----------------------------------------
+Hotel Name: The Plaza
+Star Rating: 5
+Price Range: 815 USD
+Description: Boasting views of the park, along with fitness classes and massage therapy, the 5-star luxury Plaza New York City is set near a subway station.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 284
+----------------------------------------
+Hotel Name: Stewart Hotel
+Star Rating: 4
+Price Range: 109 USD
+Description: Boasting 610 rooms, the 4-star boutique Stewart is centrally located 800 feet from Madison Square Garden.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 1194
+----------------------------------------
+Hotel Name: New York Marriott Marquis
+Star Rating: 5
+Price Range: 359 USD
+Description: Located in the entertainment Manhattan district minute walk from Times Square, the contemporary 5-star Marriott Marquis New York City boasts spa therapy, various recreational opportunities and entertainment activities.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 1406
+----------------------------------------
+Hotel Name: Arlo Williamsburg
+Star Rating: 5
+Price Range: 305 USD
+Description: Nestled in an entertainment area, the luxury Williamsburg New York City is about 2.3 miles from the 102-story Art Deco skyscraper "Empire State Building".
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 174
+----------------------------------------
+Hotel Name: Hyatt Grand Central New York
+Star Rating: 4
+Price Range: 198 USD
+Description: Located just a drive from Bryant Park, the Hyatt Grand Central New York City features an à la carte restaurant and fitness classes and spa therapy.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 635
+----------------------------------------
+Hotel Name: The Standard, High Line New York
+Star Rating: 4
+Price Range: 326 USD
+Description: Offering American dishes, the upscale 4-star Standard, High Line New York City is set within 450 feet of The High Line in the financial Manhattan district.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 983
+----------------------------------------
+Hotel Name: Row Nyc At Times Square
+Star Rating: 4
+Price Range: 92 USD
+Description: Thanks to its central location, the 4-star Row Nyc At Times Square New York City is a mere 5 minutes by foot from Times Square and there is a port a few blocks from the 4-star Row Nyc At Times Square New York City.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 3560
+----------------------------------------
+Hotel Name: Sheraton New York Times Square Hotel
+Star Rating: 4
+Price Range: 214 USD
+Description: The smoke free Sheraton New York Times Square New York City in a theater area, just 8 minutes' stroll from Times Square, boasts 1750 comfortable rooms and an American-style restaurant.
+Location: New York, United States
+Rating Value: 8.0
+Rating Count: 373
+----------------------------------------
+Hotel Name: Wythe Hotel
+Star Rating: 4
+Price Range: 300 USD
+Description: Set 4 miles from The Metropolitan Museum of Art, the 4-star Wythe New York City lies in the Williamsburg district of New York City.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 147
+----------------------------------------
+Hotel Name: The Peninsula New York
+Star Rating: 5
+Price Range: 761 USD
+Description: Centrally located merely 8 minutes' walk from Rockefeller Center, the Peninsula features a traditional Hammam and an indoor pool.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 186
+----------------------------------------
+Hotel Name: The Rockaway Hotel
+Star Rating: 4
+Price Range: 200 USD
+Description: Located within 1.3 miles of Jacob Riis Park, the Rockaway New York City features a swimming pool along with sauna facilities and an outdoor swimming pool.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 35
+----------------------------------------
+Hotel Name: Arlo Nomad
+Star Rating: 4
+Price Range: 208 USD
+Description: The smoke free Arlo Nomad New York City is situated near the shopping district of New York City 25 minutes by foot from The High Line.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 376
+----------------------------------------
+Hotel Name: Soho Grand Hotel
+Star Rating: 4
+Price Range: 303 USD
+Description: Set 5 minutes by car from World Trade Center Memorial Foundation, the modern Soho Grand lies in an industrial area.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 993
+----------------------------------------
+Hotel Name: Yotel New York Times Square
+Star Rating: 4
+Price Range: 167 USD
+Description: The boutique Yotel New York Times Square New York City is set within a 7-minute walk of 42nd Street and around 25 minutes' walk from St. Patrick's Cathedral.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 2540
+----------------------------------------
+Hotel Name: The Bowery Hotel
+Star Rating: 5
+Price Range: 495 USD
+Description: Situated approximately 1.8 miles from World Trade Center Memorial Foundation, the 5-star boutique Bowery New York City features fitness classes and various recreational opportunities.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 163
+----------------------------------------
+Hotel Name: The Ned Nomad
+Star Rating: 5
+Price Range: 630 USD
+Description: Located only 8 minutes by foot from Manhattan Skyline and 10 minutes' stroll from 34th Street - Herald Square subway station, the grand Ned Nomad New York City features fitness classes and various recreational opportunities.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 187
+----------------------------------------
+Hotel Name: The Hotel Chelsea
+Star Rating: 4
+Price Range: 387 USD
+Description: Times Square and Brooklyn Bridge are located 1.4 miles and 2.3 miles from the Hotel Chelsea New York City respectively.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 147
+----------------------------------------
+Hotel Name: The William Vale
+Star Rating: 5
+Price Range: 343 USD
+Description: Located in the Brooklyn district of New York City near a metro station, the 5-star William Vale offers 183 rooms and a rooftop bar.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 209
+----------------------------------------
+Hotel Name: New York Hilton Midtown
+Star Rating: 3
+Price Range: 217 USD
+Description: Located around 10 minutes by foot from 57th Street - Seventh Avenue subway station and around 7 minutes by foot from Top of the Rock, the 45-story Hilton Midtown boasts a steam room and sauna facilities.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 2993
+----------------------------------------
+Hotel Name: Lotte New York Palace
+Star Rating: 5
+Price Range: 465 USD
+Description: Placed in the Manhattan district of New York City, 0.2 miles from Rockefeller Center, the luxury Lotte New York Palace offers a coffee bar together with a steam room and locker rooms.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 784
+----------------------------------------
+Hotel Name: The Westin New York At Times Square
+Star Rating: 5
+Price Range: 251 USD
+Description: Offering a central location 7 minutes by foot from Times Square, the fully serviced Westin New York At Times Square holds a total of 873 rooms and boasts fitness classes and entertainment activities.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 354
+----------------------------------------
+Hotel Name: Millennium Hotel Broadway Times Square
+Star Rating: 4
+Price Range: 185 USD
+Description: Providing travelers with massage therapy and entertainment activities, the 52-story Millennium Hotel Broadway Times Square New York City is set in the theater district of New York City, an 8-minute walk from Empire State Building.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 1335
+----------------------------------------
+Hotel Name: The Westin New York Grand Central
+Star Rating: 4
+Price Range: 249 USD
+Description: Conveniently situated about a 20-minute walk from Times Square, the luxury Westin New York Grand Central New York City boasts fitness classes and various recreational opportunities.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 848
+----------------------------------------
+Hotel Name: The St. Regis New York
+Star Rating: 5
+Price Range: 756 USD
+Description: Situated 8 minutes by foot from Rockefeller Center, the perfect St. Regis features 238 rooms with separate bathrooms.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 101
+----------------------------------------
+Hotel Name: The Dominick Hotel
+Star Rating: 5
+Price Range: 861 USD
+Description: Located 1.8 miles from Empire State Building, the 46-story Dominick features 391 rooms with views of the downtown.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 398
+----------------------------------------
+Hotel Name: Hampton Inn Manhattan Times Square North
+Star Rating: 3
+Price Range: 125 USD
+Description: While staying at the non-smoking Hampton Inn Manhattan Times Square North you are invited to discover Intrepid Sea, set approximately 19 minutes' walk away, or Seventh Avenue, which is 5 minutes' walk away.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 1195
+----------------------------------------
+Hotel Name: Hilton New York Times Square
+Star Rating: 4
+Price Range: 215 USD
+Description: Ideally located near a subway station, the 4-star Hilton New York Times Square is also 10 minutes by foot from Empire State Building.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 685
+----------------------------------------
+Hotel Name: Hilton Garden Inn New York - Times Square Central
+Star Rating: 3
+Price Range: 216 USD
+Description: An American cuisine and a lobby bar are offered during your stay at the 3-star Hilton Garden Inn New York - Times Square Central that boasts a prime setting close to a subway station.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 239
+----------------------------------------
+Hotel Name: 1 Hotel Brooklyn Bridge
+Star Rating: 5
+Price Range: 597 USD
+Description: Located near a metro station and 10 minutes' drive from One World Observatory, the 5-star 1 Hotel Brooklyn Bridge New York City offers fitness classes, massage therapy and entertainment activities.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 167
+----------------------------------------
+Hotel Name: Omni Berkshire Place
+Star Rating: 4
+Price Range: 452 USD
+Description: Boasting an ideal location and access to Top of the Rock, which stands only 7 minutes' walk from, the 4-star Omni Berkshire Place features an American-style restaurant and 396 rooms.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 236
+----------------------------------------
+Hotel Name: Hotel Beacon
+Star Rating: 4
+Price Range: 247 USD
+Description: Nestled in a theater neighbourhood near a metro station, the Beacon offers 276 spacious rooms along with views of the park.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 1419
+----------------------------------------
+Hotel Name: Nomo Soho
+Star Rating: 4
+Price Range: 249 USD
+Description: SoHo is less than 7 minutes' stroll from the comfortable 4-star Nomo Soho New York City, while Empire State Building is 2.1 miles away.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 718
+----------------------------------------
+Hotel Name: Dream Downtown, By Hyatt
+Star Rating: 4
+Price Range: 511 USD
+Description: Featuring fitness classes and various recreational opportunities, the Dream Downtown, Part Of Hyatt New York City is set in a touristic area around 1.4 miles from Manhattan Skyline.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 832
+----------------------------------------
+Hotel Name: Four Seasons Hotel New York
+Star Rating: 5
+Price Range: 701 USD
+Description: Placed in the Manhattan district, the 5-star luxury Four Seasons Hotel New York City is conveniently situated 15 minutes' drive from World Trade Center Memorial Foundation.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 85
+----------------------------------------
+Hotel Name: The Collective Paper Factory
+Star Rating: 4
+Price Range: 96 USD
+Description: The 4-star Collective Paper Factory is settled in the Long Island City district of New York City, 2.9 miles from Empire State Building, and includes a lounge bar.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 362
+----------------------------------------
+Hotel Name: Hotel Edison Times Square
+Star Rating: 4
+Price Range: 141 USD
+Description: Featuring a classic-style building in a theater district, the 4-star smoke-free Edison Times Square New York City boasts an à la carte restaurant onsite.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 775
+----------------------------------------
+Hotel Name: Ace Hotel Brooklyn
+Star Rating: 4
+Price Range: 368 USD
+Description: 9/11 Memorial and The High Line Park are located 2.3 miles and 4.1 miles from the Ace Hotel Brooklyn respectively.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 123
+----------------------------------------
+Hotel Name: The Hotel At Times Square
+Star Rating: 3
+Price Range: 82 USD
+Description: Thanks to its perfect location, the comfortable 3-star Hotel At Times Square New York City is 7 minutes by foot from Fifth Avenue and there is a subway station near the comfortable 3-star Hotel At Times Square New York City.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 1965
+----------------------------------------
+Hotel Name: Pod Times Square
+Star Rating: 3
+Price Range: 169 USD
+Description: The 4-star smoke free Pod Times Square New York City is settled in the Manhattan district, 1 miles from Rockefeller Center, and includes a lounge bar.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 604
+----------------------------------------
+Hotel Name: Park Central
+Star Rating: 4
+Price Range: 120 USD
+Description: A local cuisine and a lobby bar are offered during your stay at the elegant Park Central that boasts a prime setting very close to an expressway.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 2451
+----------------------------------------
+Hotel Name: Pod 51
+Star Rating: 3
+Price Range: 151 USD
+Description: Located a 6-minute stroll from Seagram Building and approximately 1.5 miles from Macy's, the 3-star smoke free Pod 51 features various recreational opportunities and entertainment activities.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 1292
+----------------------------------------
+Hotel Name: Conrad New York Downtown
+Star Rating: 5
+Price Range: 579 USD
+Description: Situated walk from Battery Park, the 5-star pet-friendly Conrad New York Downtown features fitness classes and entertainment activities.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 485
+----------------------------------------
+Hotel Name: The Whitby Hotel
+Star Rating: 5
+Price Range: 1145 USD
+Description: The huge American Museum of Natural History is within a 5-minute drive of the 5-star Whitby New York City and Broadway Road is a mere 0.7 miles away.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 75
+----------------------------------------
+Hotel Name: Empire Hotel
+Star Rating: 4
+Price Range: 159 USD
+Description: Less than a 7-minute stroll from Museum of Arts and Design and approximately 1.4 miles from Midtown East, the Empire New York City features the outdoor swimming pool along with a rooftop bar.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 1076
+----------------------------------------
+Hotel Name: Millennium Downtown New York
+Star Rating: 4
+Price Range: 257 USD
+Description: The surrounding area includes Brooklyn Bridge, less than 9 minutes' walk away, and WTC Cortlandt subway station within 800 feet of the 4-star Millennium Downtown.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 936
+----------------------------------------
+Hotel Name: The Manhattan Club
+Star Rating: 4
+Price Range: 381 USD
+Description: Sitting nearly a 25-minute stroll from The Metropolitan Museum of Art, the 4-star first-class Manhattan Club is located in the theater district of New York City.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 334
+----------------------------------------
+Hotel Name: Hard Rock Hotel New York
+Star Rating: 5
+Price Range: 452 USD
+Description: Featuring fitness classes and entertainment activities, the Hard Rock Hotel New York City is situated around 0.5 miles from Times Square and 400 feet from 49th Street subway station.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 184
+----------------------------------------
+Hotel Name: Paramount Hotel Times Square
+Star Rating: 4
+Price Range: 107 USD
+Description: Located in a theater neighbourhood within walking distance from the central station, the 4-star Paramount Hotel Times Square offers 605 rooms and a lobby bar.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 1219
+----------------------------------------
+Hotel Name: Ace Hotel New York
+Star Rating: 4
+Price Range: 248 USD
+Description: Set 8 minutes by foot from Flatiron Building, the 4-star designer Ace Hotel overlooks the courtyard and invites guests to have a drink at a lobby bar.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 1257
+----------------------------------------
+Hotel Name: Roxy Hotel New York
+Star Rating: 4
+Price Range: 450 USD
+Description: Located 0.3 miles from Pier 26 at Hudson River Park, within 2.5 miles of Bryant Park, the luxury Roxy Hotel features fitness classes, live entertainment and various recreational opportunities along with 203 rooms.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 577
+----------------------------------------
+Hotel Name: Jw Marriott Essex House New York
+Star Rating: 5
+Price Range: 620 USD
+Description: Set near a metro station in the Manhattan district, the chic Jw Marriott Essex House includes 528 rooms as well as spa therapy and various recreational opportunities.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 460
+----------------------------------------
+Hotel Name: The New York Edition
+Star Rating: 5
+Price Range: 1370 USD
+Description: Located near a subway station and within a 10-minute drive of The High Line, the 5-star boutique Edition New York City offers fitness classes, massage therapy and various recreational opportunities.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 79
+----------------------------------------
+Hotel Name: Hyatt Centric Times Square New York
+Star Rating: 4
+Price Range: 343 USD
+Description: While staying at the 54-story Hyatt Centric Times Square you are invited to discover Central Park, set about 1.6 miles away, or The High Line, which is about 1.7 miles away.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 350
+----------------------------------------
+Hotel Name: Conrad New York Midtown
+Star Rating: 5
+Price Range: 656 USD
+Description: Near the welcoming 5-star Conrad New York Midtown, there is a metro station and guests can easily reach Rockefeller Center which is only 9 minutes by foot from the welcoming 5-star Conrad New York Midtown.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 193
+----------------------------------------
+Hotel Name: Park Lane New York
+Star Rating: 5
+Price Range: 458 USD
+Description: The 5-star Park Lane is nestled steps away from the shopping district of New York City 750 feet from Pulitzer Fountain.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 2872
+----------------------------------------
+Hotel Name: Gansevoort Meatpacking
+Star Rating: 5
+Price Range: 538 USD
+Description: Guests can enjoy a drink in a pool bar or relax by a swimming pool, while staying at the 5-star luxury Gansevoort Meatpacking New York City, situated 1.8 miles from Times Square.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 617
+----------------------------------------
+Hotel Name: Park West Hotel
+Star Rating: 3
+Price Range: 80 USD
+Description: The smoke-free Park West New York City, located steps from Cathedral Church of Saint John the Divine, is also at a proximity to Frederick Douglass Circle.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 346
+----------------------------------------
+Hotel Name: Ink 48 Hotel
+Star Rating: 4
+Price Range: 358 USD
+Description: At the 4-star luxury Ink 48 New York City, located in a theater district, guests can relax at the wine bar.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 435
+----------------------------------------
+Hotel Name: The Benjamin Royal Sonesta New York
+Star Rating: 5
+Price Range: 231 USD
+Description: Located 10 minutes' walk from Top of the Rock, the excellent Benjamin Royal Sonesta New York City features spa therapy and various recreational opportunities near a metro station.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 440
+----------------------------------------
+Hotel Name: Intercontinental New York Times Square, An Ihg Hotel
+Star Rating: 4
+Price Range: 203 USD
+Description: Boasting an unrivaled location in the theater Manhattan district, the 36-story luxury Intercontinental New York Times Square, An Ihg New York City features fitness classes and various recreational opportunities.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 1039
+----------------------------------------
+Hotel Name: Refinery Hotel - New York
+Star Rating: 5
+Price Range: 527 USD
+Description: The Refinery Hotel - is nestled a few blocks away from a theater district, 5 minutes by foot from Herald Square.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 162
+----------------------------------------
+Hotel Name: The Jane Hotel
+Star Rating: 2
+Price Range: 219 USD
+Description: Boasting a prime setting in an entertainment district, the 2-star boutique Jane New York City features a lobby bar plus various recreational opportunities and entertainment activities.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 891
+----------------------------------------
+Hotel Name: The Mercer
+Star Rating: 5
+Price Range: 356 USD
+Description: The 5-star Mercer New York City in the Manhattan district of New York City offers spacious rooms along with fitness classes, massage therapy and various recreational opportunities.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 106
+----------------------------------------
+Hotel Name: Civilian Hotel
+Star Rating: 4
+Price Range: 381 USD
+Description: Set a 5-minute drive from Empire State Building, the 4-star Civilian New York City lies in a theater area.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 247
+----------------------------------------
+Hotel Name: Pod Brooklyn
+Star Rating: 3
+Price Range: 171 USD
+Description: Thanks to its prime location, the 3-star Pod Brooklyn is only 900 feet from Williamsburg and there is a subway station near the 3-star Pod Brooklyn.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 428
+----------------------------------------
+Hotel Name: The Greenwich Hotel
+Star Rating: 5
+Price Range: 614 USD
+Description: The 5-star pet-friendly Greenwich New York City in the Manhattan district features a swimming pool and a fitness center.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 93
+----------------------------------------
+Hotel Name: Washington Square Hotel
+Star Rating: 4
+Price Range: 346 USD
+Description: Thanks to its unique location, the stylish 4-star Washington Square New York City is 5 minutes by foot from Greenwich Village and there is a subway station near the stylish 4-star Washington Square New York City.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 880
+----------------------------------------
+Hotel Name: The James New York - Nomad
+Star Rating: 4
+Price Range: 429 USD
+Description: Featuring fitness classes and massage therapy, the 4-star James New York - Nomad New York City boasts a central location a 25-minute walk from Times Square.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 262
+----------------------------------------
+Hotel Name: Loews Regency New York Hotel
+Star Rating: 5
+Price Range: 2658 USD
+Description: Offering a location 9 minutes' walk from Trump Tower, the 5-star Loews Regency New York City overlooks the street and has an American restaurant.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 129
+----------------------------------------
+Hotel Name: 33 Seaport Hotel New York
+Star Rating: 5
+Price Range: 189 USD
+Description: Featuring 66 rooms with views of the river, the 4-star non-smoking 33 Seaport Hotel is set 19 minutes' walk from Battery Park.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 410
+----------------------------------------
+Hotel Name: The Lexington Hotel, Autograph Collection
+Star Rating: 4
+Price Range: 293 USD
+Description: Fitness classes and barbeque grills plus American dishes are available at the premier 4-star Lexington Hotel, Autograph Collection, set in the theater Manhattan district.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 713
+----------------------------------------
+Hotel Name: Pod 39
+Star Rating: 3
+Price Range: 149 USD
+Description: The family Pod 39 New York City is situated near the entertainment district of New York City, 5 minutes by foot from Sniffen Court Historic District and offers fitness classes, various recreational opportunities and entertainment activities.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 795
+----------------------------------------
+Hotel Name: Intercontinental New York Barclay Hotel, An Ihg Hotel
+Star Rating: 5
+Price Range: 195 USD
+Description: Situated in the very heart of New York City and within 4 miles of World Trade Center Memorial Foundation, the elegant 5-star Intercontinental New York Barclay Hotel, An Ihg offers 693 rooms.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 426
+----------------------------------------
+Hotel Name: Hotel 50 Bowery, Part Of Jdv By Hyatt
+Star Rating: 4
+Price Range: 247 USD
+Description: Brooklyn Bridge is within 0.6 miles of the 4-star 50 Bowery, Part Of Jdv By Hyatt New York City, while Washington Square Park is approximately a 25-minute stroll away.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 283
+----------------------------------------
+Hotel Name: Hotel 57
+Star Rating: 4
+Price Range: 233 USD
+Description: Within 800 feet of 59th Street subway station, the quiet 57 is set in a shopping area of New York City next to Howard Greenberg Gallery.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 322
+----------------------------------------
+Hotel Name: Riu Plaza New York Times Square
+Star Rating: 4
+Price Range: 197 USD
+Description: The modern Riu Plaza New York Times Square New York City is situated near the entertainment district of New York City, merely a 5-minute walk from Discovery Times Square.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 568
+----------------------------------------
+Hotel Name: Bklyn House Hotel New York Brooklyn
+Star Rating: 3
+Price Range: 149 USD
+Description: Located in the Brooklyn district of New York City and within 3.9 miles of World Trade Center Memorial Foundation, as well as near a metro station, the modern Bklyn House Hotel New York Brooklyn New York City offers various recreational opportunities and entertainment activities.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 296
+----------------------------------------
+Hotel Name: M Social Hotel Times Square New York
+Star Rating: 4
+Price Range: 171 USD
+Description: The 4-star family-friendly M Social Hotel Times Square, positioned in a theater district near a subway station, offers an a winter garden garden.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 1369
+----------------------------------------
+Hotel Name: Hotel Lucerne
+Star Rating: 4
+Price Range: 398 USD
+Description: The 4-star luxury Lucerne New York City is placed 25 minutes' walk from Fifth Avenue and near a metro station.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 638
+----------------------------------------
+Hotel Name: Hotel Pennsylvania
+Star Rating: 3
+Price Range: 320 USD
+Description: Situated in the Manhattan district of New York City, the pet-friendly Pennsylvania offers quick access to LaGuardia airport within 17 minutes' drive.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 7649
+----------------------------------------
+Hotel Name: The Kimberly Hotel
+Star Rating: 4
+Price Range: 259 USD
+Description: There is an American-style restaurant available in the 30-story Kimberly New York City, which is set in the Manhattan district.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 325
+----------------------------------------
+Hotel Name: Renaissance New York Chelsea Hotel
+Star Rating: 4
+Price Range: 189 USD
+Description: Set a 25-minute walk from Top of the Rock, the Renaissance New York Chelsea invites its guests to benefit from fitness classes, various recreational opportunities and entertainment activities, plus to have a meal in an à la carte restaurant.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 93
+----------------------------------------
+Hotel Name: Bryant Park Hotel
+Star Rating: 4
+Price Range: 317 USD
+Description: Opened in 1900, the Bryant Park New York City welcomes guests in the Manhattan district, boasting a central position near a metro station.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 480
+----------------------------------------
+Hotel Name: The Times Square Edition New York
+Star Rating: 5
+Price Range: 1240 USD
+Description: Guests can enjoy an à la carte restaurant and fitness classes, various recreational opportunities and entertainment activities at the 5-star luxury Times Square Edition New York City, set near a subway station.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 165
+----------------------------------------
+Hotel Name: The Time
+Star Rating: 4
+Price Range: 127 USD
+Description: The sophisticated 4-star Time New York City is situated in the Manhattan district of New York City, 20 minutes' drive from LaGuardia airport.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 2157
+----------------------------------------
+Hotel Name: Holiday Inn Manhattan Financial District, An Ihg Hotel
+Star Rating: 4
+Price Range: 189 USD
+Description: The 50-story Manhattan Financial District, An Ihg in the business area of New York City offers various recreational opportunities and entertainment activities.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 482
+----------------------------------------
+Hotel Name: Dream Midtown, By Hyatt
+Star Rating: 4
+Price Range: 159 USD
+Description: The 4-star boutique Dream Midtown, Part Of Hyatt is nestled in the heart of New York City and approximately a 20-minute walk from Empire State Building.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 1410
+----------------------------------------
+Hotel Name: Hotel Belleclaire Central Park
+Star Rating: 4
+Price Range: 365 USD
+Description: The premier Belleclaire Central Park consists of 267 rooms along with a lobby bar and is nestled in a shopping area.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 1400
+----------------------------------------
+Hotel Name: Martinique New York On Broadway, Curio Collection By Hilton
+Star Rating: 4
+Price Range: 326 USD
+Description: Ideal for exploring Manhattan Skyline, approximately a 5-minute stroll away, and centrally located near a metro station, the 4-star Martinique New York On Broadway, Curio Collection By Hilton New York City will provide you with fitness classes, spa therapy and entertainment activities.
+Location: New York, United States
+Rating Value: 8.6
+Rating Count: 1431
+----------------------------------------
+Hotel Name: The Marlton Hotel
+Star Rating: 4
+Price Range: 259 USD
+Description: Guests can enjoy an à la carte restaurant and various recreational opportunities and entertainment activities at the 4-star boutique Marlton New York City, set near a subway station.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 226
+----------------------------------------
+Hotel Name: 11 Howard, New York, A Member Of Design Hotels
+Star Rating: 5
+Price Range: 219 USD
+Description: The surrounding area includes Little Italy, less than 5 minutes' walk away, and Canal Street subway station 750 feet from the 5-star 11 Howard.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 156
+----------------------------------------
+Hotel Name: Arthouse Hotel
+Star Rating: 4
+Price Range: 303 USD
+Description: A beautiful location of the 4-star Arthouse New York City provides easy access to Trump Tower within a 25-minute walk.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 681
+----------------------------------------
+Hotel Name: Sofitel New York
+Star Rating: 4
+Price Range: 284 USD
+Description: The surrounding area includes Times Square, a mere 7 minutes' walk away, and 42nd Street-Bryant Park/Fifth Avenue subway station a 10-minute walk from the Sofitel New York City.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 595
+----------------------------------------
+Hotel Name: New York Marriott At The Brooklyn Bridge
+Star Rating: 4
+Price Range: 239 USD
+Description: Located in the Downtown Brooklyn district 5 minutes' walk from Brooklyn Tabernacle, the 4-star luxurious Marriott At The Brooklyn Bridge New York City boasts fitness classes and spa therapy.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 123
+----------------------------------------
+Hotel Name: Ac Hotel By Marriott New York Times Square
+Star Rating: 4
+Price Range: 197 USD
+Description: An à la carte restaurant and 290 rooms are available during the stay at the 4-star Ac Hotel By Marriott New York Times Square New York City, boasting a location 9 minutes' walk from Times Square.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 127
+----------------------------------------
+Hotel Name: Americana Inn
+Star Rating: 2
+Price Range: 65 USD
+Description: The Americana Inn is a comfortable 2-star property set within 2.5 miles of The Metropolitan Museum of Art and a mere 8 minutes by foot from Madison Square Garden.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 478
+----------------------------------------
+Hotel Name: Thompson Central Park New York, By Hyatt
+Star Rating: 5
+Price Range: 506 USD
+Description: Located in the Manhattan district and 5 minutes' drive from Central Park, as well as near a metro station, the 5-star luxury Thompson Central Park New York, Part Of Hyatt New York City offers fitness classes, sun loungers and various recreational opportunities.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 313
+----------------------------------------
+Hotel Name: The Frederick Hotel Tribeca
+Star Rating: 5
+Price Range: 248 USD
+Description: Located near a subway station and about 7 minutes' walk from Brooklyn Bridge, the 5-star boutique Frederick Hotel Tribeca New York City offers fitness classes and entertainment activities.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 647
+----------------------------------------
+Hotel Name: W New York - Times Square
+Star Rating: 4
+Price Range: 234 USD
+Description: At the comfortable 4-star W New York - Times Square, located in a theater neighbourhood, guests can relax at the lobby bar.
+Location: New York, United States
+Rating Value: 8.4
+Rating Count: 373
+----------------------------------------
+Hotel Name: Hyatt Place Nyc Chelsea
+Star Rating: 4
+Price Range: 242 USD
+Description: While staying at the 4-star Hyatt Place Nyc Chelsea New York City you are invited to discover Rockefeller Center, set about 1.3 miles away, or The High Line, which is a 19-minute stroll away.
+Location: New York, United States
+Rating Value: 8.2
+Rating Count: 385
+----------------------------------------
+Hotel Name: The Puli Hotel And Spa
+Star Rating: 5
+Price Range: 263 USD
+Description: Located in an entertainment district, the 5-star luxury The Puli Hotel And Spa offers a steam room, a Jacuzzi and a hot tub along with an indoor pool.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 157
+----------------------------------------
+Hotel Name: Pudong Shangri-La, Shanghai
+Star Rating: 5
+Price Range: 180 USD
+Description: Guests, staying at the elegant 5-star Pudong Shangri-La, will enjoy the location in the financial Pudong district along with steam baths, a Jacuzzi and a hot tub.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 134
+----------------------------------------
+Hotel Name: Grand Hyatt Shanghai
+Star Rating: 5
+Price Range: 163 USD
+Description: With views of the city, the 5-star Grand Hyatt is situated within a 10-minute drive of People's Square and offers fitness classes, spa therapy and entertainment activities.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 211
+----------------------------------------
+Hotel Name: The Portman Ritz-Carlton Shanghai
+Star Rating: 5
+Price Range: 143 USD
+Description: Shanghai Hongqiao International airport is 10 miles from the non-smoking Portman Ritz-Carlton, which lies in the very heart of a financial area.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 55
+----------------------------------------
+Hotel Name: Shanghai Marriott Marquis City Centre
+Star Rating: 5
+Price Range: 144 USD
+Description: Located in the business district of Shanghai and a mere 7 minutes' walk from People's Square, the unique Marriott Marquis City Centre features entertainment activities and various recreational opportunities.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 245
+----------------------------------------
+Hotel Name: Shanghai Marriott Hotel Pudong East
+Star Rating: 5
+Price Range: 132 USD
+Description: While staying at the 5-star Marriott Hotel Pudong East, which is located in a business neighbourhood, you can enjoy the lounge bar and a swimming pool.
+Location: Shanghai, China
+Rating Value: 8.6
+Rating Count: 232
+----------------------------------------
+Hotel Name: Hyatt On The Bund
+Star Rating: 5
+Price Range: 143 USD
+Description: Offering a swimming pool as well as steam baths, a hot tub and sauna facilities onsite, the 33-story Hyatt On The Bund Shanghai boasts its location 10 minutes by foot from North Sichuan Road subway station.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 243
+----------------------------------------
+Hotel Name: Fairmont Peace Hotel On The Bund
+Star Rating: 5
+Price Range: 269 USD
+Description: Ideally located in the shopping district of Shanghai not too far from Heping Fandian, the Fairmont Peace Hotel On The Bund Shanghai has 270 rooms.
+Location: Shanghai, China
+Rating Value: 8.6
+Rating Count: 192
+----------------------------------------
+Hotel Name: Park Hyatt Shanghai
+Star Rating: 5
+Price Range: 304 USD
+Description: Overlooking the Huangpu River, the 5-star business Park Hyatt in the financial district of Shanghai features an à la carte restaurant along with fitness classes and facials.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 98
+----------------------------------------
+Hotel Name: The Peninsula Shanghai
+Star Rating: 5
+Price Range: 373 USD
+Description: Boasting a great location in the entertainment district of Shanghai near a metro station, the 5-star modern Peninsula features fitness classes, spa therapy and entertainment activities on site.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 96
+----------------------------------------
+Hotel Name: The Ritz-Carlton Shanghai, Pudong
+Star Rating: 5
+Price Range: 301 USD
+Description: Boasting a prime location, the 58-story Ritz-Carlton Shanghai, Pudong Shanghai invites guests to an à la carte restaurant serving European dishes.
+Location: Shanghai, China
+Rating Value: 8.6
+Rating Count: 96
+----------------------------------------
+Hotel Name: The Westin Bund Center, Shanghai
+Star Rating: 5
+Price Range: 159 USD
+Description: Boasting its location a 5-minute walk from The Ritz-Carlton Spa, the non-smoking Westin Bund Center, Shanghai has an indoor swimming pool and 553 rooms with views of the Huangpu River.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 164
+----------------------------------------
+Hotel Name: Conrad Shanghai
+Star Rating: 5
+Price Range: 166 USD
+Description: Located merely 7 minutes' walk from Shanghai Urban Planning Exhibition Hall, the 5-star Conrad has 728 rooms, and lies just a short stroll from a railroad station.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 315
+----------------------------------------
+Hotel Name: Mandarin Oriental Pudong, Shanghai
+Star Rating: 5
+Price Range: 208 USD
+Description: Located within 2.3 miles of The Shanghai Museum, the comfortable Mandarin Oriental Pudong, features a swimming pool along with sauna facilities and an indoor pool.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 56
+----------------------------------------
+Hotel Name: Andaz Xintiandi Shanghai-Free Minibar & Lounge Happy Hour
+Star Rating: 5
+Price Range: 171 USD
+Description: Boasting a location around 0.4 miles from Fuxing Park, the stylish 5-star Andaz Xintiandi Shanghai - A Concept By Hyatt offers views of the city as well as a hot tub, an indoor pool and locker rooms.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 74
+----------------------------------------
+Hotel Name: Pullman Shanghai Skyway
+Star Rating: 5
+Price Range: 133 USD
+Description: Located in a business neighbourhood, the 5-star Pullman Shanghai Skyway Shanghai features fitness classes, spa therapy and various recreational opportunities.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 205
+----------------------------------------
+Hotel Name: Kerry Hotel Pudong, Shanghai
+Star Rating: 5
+Price Range: 125 USD
+Description: An Asian restaurant with a hot tub, sauna facilities and an indoor pool are provided on site, while the 31-story luxurious Kerry Hotel Pudong, Shanghai boasts a major setting in the modern Pudong district.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 94
+----------------------------------------
+Hotel Name: Renaissance Shanghai Yu Garden Hotel
+Star Rating: 5
+Price Range: 114 USD
+Description: Offering a Jacuzzi, sauna facilities and an indoor pool, the 5-star Renaissance Shanghai Yu Garden is located within 0.4 miles of Old Town in a shopping neighbourhood.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 360
+----------------------------------------
+Hotel Name: Jw Marriott Shanghai At Tomorrow Square
+Star Rating: 5
+Price Range: 181 USD
+Description: Located in a shopping district and 6 minutes by foot from The Government of Shanghai Municipality, the 60-story Jw Marriott Shanghai At Tomorrow Square features 333 rooms plus a swimming pool.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 123
+----------------------------------------
+Hotel Name: Courtyard By Marriott Shanghai Central
+Star Rating: 4
+Price Range: 124 USD
+Description: The comfortable Courtyard By Marriott enjoys a premium view overlooking the Suzhou River and is situated a 10-minute drive from The Bund.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 103
+----------------------------------------
+Hotel Name: Shanghai Marriott Hotel Hongqiao
+Star Rating: 5
+Price Range: 124 USD
+Description: Located 6 minutes by foot from ChengJiaQiao ShangYeJie ShuangYong Jie and just 0.7 miles from ShangHai GuoJi NongZhan ZhongXin, the 5-star smoke-free Marriott Hotel Hongqiao Shanghai features spa therapy and various recreational opportunities.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 71
+----------------------------------------
+Hotel Name: Ramada Plaza Shanghai Pudong Airport - A Journey Starts At The Pvg Airport
+Star Rating: 4
+Price Range: 116 USD
+Description: Located near a subway station and 2.9 miles from Zhang Wentian Former Residence, the 4-star non-smoking Ramada Plaza Shanghai Pudong Airport - A Journey Starts At The Pvg Airport offers fitness classes, entertainment activities and billiard.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 446
+----------------------------------------
+Hotel Name: Radisson Blu Hotel Shanghai New World
+Star Rating: 5
+Price Range: 123 USD
+Description: Offering access to an indoor swimming pool, the deluxe 5-star Radisson Blu Hotel Shanghai New World also provides fitness classes, facials and billiard just a short walk from a metro station and approximately 8 minutes' stroll from Shanghai Natural History Museum.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 311
+----------------------------------------
+Hotel Name: Hilton Shanghai Hongqiao
+Star Rating: 5
+Price Range: 97 USD
+Description: Intex Shanghai is about 1.3 miles from the stylish Hilton Shanghai Hongqiao, while Shanghai Zoo is approximately 2.5 miles away.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 92
+----------------------------------------
+Hotel Name: The Langham, Shanghai, Xintiandi
+Star Rating: 5
+Price Range: 173 USD
+Description: Offering 355 rooms as well as sauna facilities and an indoor pool, the 5-star Langham, Shanghai, Xintiandi Shanghai is set 800 feet from Former French Concession and 5 minutes by foot from South Huangpi Road subway station.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 142
+----------------------------------------
+Hotel Name: Hotel Equatorial Shanghai
+Star Rating: 5
+Price Range: 76 USD
+Description: Located in the Downtown Shanghai district, the perfect Equatorial Shanghai offers 627 rooms along with an indoor pool.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 329
+----------------------------------------
+Hotel Name: Renaissance Shanghai Pudong Hotel
+Star Rating: 5
+Price Range: 109 USD
+Description: You can enjoy a lounge bar and a hot tub, sauna facilities and an indoor pool at the comfortable 5-star Renaissance Shanghai Pudong while taking advantage of its convenient location within walking distance of Century Park.
+Location: Shanghai, China
+Rating Value: 8.6
+Rating Count: 129
+----------------------------------------
+Hotel Name: Grand Kempinski Hotel Shanghai
+Star Rating: 5
+Price Range: 170 USD
+Description: Featuring a swimming pool along with a lounge bar, the 5-star Grand Kempinski Hotel Shanghai is a great place for exploring Oriental Pearl TV Tower in a shopping area, set 0.4 miles away.
+Location: Shanghai, China
+Rating Value: 8.6
+Rating Count: 189
+----------------------------------------
+Hotel Name: Crowne Plaza Shanghai, An Ihg Hotel
+Star Rating: 5
+Price Range: 96 USD
+Description: Located in a shopping neighbourhood, 6 minutes by foot from Shanghai Jiao Tong University, the 5-star Crowne Plaza Shanghai, An Ihg offers access to sauna facilities, a massage chair and an indoor pool.
+Location: Shanghai, China
+Rating Value: 8.0
+Rating Count: 71
+----------------------------------------
+Hotel Name: Radisson Collection Hotel, Yangtze Shanghai
+Star Rating: 5
+Price Range: 87 USD
+Description: Situated in the business Changning district, around 4.2 miles from The Shanghai Museum, the contemporary 5-star Radisson Collection Hotel, Yangtze accommodates its guests in 525 rooms and offers sauna facilities and an indoor pool.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 75
+----------------------------------------
+Hotel Name: Bulgari Hotel Shanghai
+Star Rating: 5
+Price Range: 609 USD
+Description: Located merely 7 minutes by foot from Rockbund Art Museum, the 5-star Bulgari Hotel includes a traditional Hammam, a hot tub and an indoor pool along with Cantonese cuisine.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 14
+----------------------------------------
+Hotel Name: Courtyard By Marriott Shanghai Pudong
+Star Rating: 4
+Price Range: 137 USD
+Description: Located 5 minutes by foot from Shanghai Feng Tianxing Stone Museum and just 700 feet from Bao daxiang children Shopping Center, the 4-star business Courtyard By Marriott Shanghai Pudong features fitness classes and entertainment activities.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 111
+----------------------------------------
+Hotel Name: Shanghai Bund South China Harbour View Hotel
+Star Rating: 4
+Price Range: 113 USD
+Description: While staying at the perfect 4-star Bund South China Harbour View you are invited to discover Xintiandi, set a 10-minute drive away, or Oriental Pearl TV Tower, which is just 0.7 miles away.
+Location: Shanghai, China
+Rating Value: 8.0
+Rating Count: 102
+----------------------------------------
+Hotel Name: Jin Jiang Park Hotel
+Star Rating: 4
+Price Range: 79 USD
+Description: Comprising 252 rooms, the charming 4-star Jin Jiang Park is set right next to a business district, 10 minutes' drive from Shanghai World Financial Center.
+Location: Shanghai, China
+Rating Value: 7.8
+Rating Count: 90
+----------------------------------------
+Hotel Name: Regent Shanghai Pudong - Complimentary First Round Minibar Per Stay - Including A Bottle Of Wine
+Star Rating: 5
+Price Range: 155 USD
+Description: Set in a financial area, the non-smoking Regent Shanghai Pudong is 0.4 miles from Jin Mao Tower and has a hot spring public bath, a hot tub and sauna facilities onsite.
+Location: Shanghai, China
+Rating Value: 8.6
+Rating Count: 48
+----------------------------------------
+Hotel Name: Intercontinental Shanghai Pudong, An Ihg Hotel
+Star Rating: 5
+Price Range: 103 USD
+Description: The comfortable Intercontinental Shanghai Pudong features views of the city and a swimming pool, boasting a prime location within walking distance to a subway station.
+Location: Shanghai, China
+Rating Value: 8.6
+Rating Count: 67
+----------------------------------------
+Hotel Name: Hongqiao Jin Jiang Hotel
+Star Rating: 5
+Price Range: 91 USD
+Description: Boasting a steam room, a Jacuzzi and locker rooms plus a lobby bar, the excellent 5-star Hongqiao Jin Jiang Shanghai is set approximately 0.5 miles from Loushanguan Road subway station.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 75
+----------------------------------------
+Hotel Name: Caption By Hyatt Zhongshan Park Shanghai
+Star Rating: 4
+Price Range: 117 USD
+Description: The 5-star business New World, located in the Changning district, has fitness classes and spa therapy.
+Location: Shanghai, China
+Rating Value: 8.6
+Rating Count: 164
+----------------------------------------
+Hotel Name: Jw Marriott Hotel Shanghai Changfeng Park
+Star Rating: 5
+Price Range: 199 USD
+Description: Featuring a prime location in the business Putuo district, the 5-star Jw Marriott Hotel Shanghai Changfeng Park Shanghai offers panoramic views and heated swimming pool.
+Location: Shanghai, China
+Rating Value: 8.0
+Rating Count: 50
+----------------------------------------
+Hotel Name: Grand Central Hotel Shanghai
+Star Rating: 5
+Price Range: 117 USD
+Description: Offering the opportunity to enjoy the sunset by Huangpu River, which runs around 0.3 miles away, the luxury Grand Central Hotel Shanghai offers sauna facilities and an indoor pool.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 477
+----------------------------------------
+Hotel Name: Renaissance Shanghai Zhongshan Park Hotel
+Star Rating: 5
+Price Range: 184 USD
+Description: Featuring an indoor swimming pool and spectacular views of the city, the 5-star Renaissance Shanghai Zhongshan Park Shanghai lies a 5-minute walk from Cloud Nine.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 74
+----------------------------------------
+Hotel Name: Intercontinental Shanghai Jing' An, An Ihg Hotel
+Star Rating: 5
+Price Range: 148 USD
+Description: Nestled in a shopping area, only a 10-minute stroll from M50, the smoke free Intercontinental Shanghai Jing' An, An Ihg Shanghai features a steam room, sauna facilities and an indoor pool.
+Location: Shanghai, China
+Rating Value: 8.6
+Rating Count: 64
+----------------------------------------
+Hotel Name: Wyndham Shanghai Bund East Hotel
+Star Rating: 5
+Price Range: 191 USD
+Description: Shanghai Jewish Refugees Museum and Century Park are located 2.1 miles and 3 miles from the 32-story Wyndham Shanghai Bund East respectively.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 29
+----------------------------------------
+Hotel Name: The Middle House
+Star Rating: 5
+Price Range: 237 USD
+Description: Located in the center of Shanghai, in the neighborhood of People's Park and within walking distance of HKRI TaiKoo Hui, the fantastic 5-star Middle House offers fitness classes and various recreational opportunities.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 23
+----------------------------------------
+Hotel Name: The Bund Riverside Hotel
+Star Rating: 4
+Price Range: 77 USD
+Description: Set 700 feet from Holy Trinity Cathedral, the 4-star modern Bund Riverside Shanghai boasts spa therapy and entertainment activities.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 224
+----------------------------------------
+Hotel Name: Radisson Collection Hyland Shanghai
+Star Rating: 4
+Price Range: 141 USD
+Description: Situated in the very heart of Shanghai and a 25-minute walk from Yu Garden, the Radisson Collection Hyland offers 379 rooms.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 359
+----------------------------------------
+Hotel Name: Green Court Residence City Center, Shanghai
+Star Rating: None
+Price Range: 102 USD
+Description: The smoke-free Court Residence City Center, is situated near a shopping district 0.8 miles from Shanghai Grand Theatre.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 406
+----------------------------------------
+Hotel Name: Waldorf Astoria Shanghai On The Bund
+Star Rating: 5
+Price Range: 318 USD
+Description: Located 0.9 miles from The Shanghai Museum, the 5-star luxury Waldorf Astoria Shanghai On The Bund entices guests with a hot tub, sauna facilities and an indoor pool.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 71
+----------------------------------------
+Hotel Name: Jin Jiang Hotel
+Star Rating: 5
+Price Range: 111 USD
+Description: The luxury Jin Jiang Shanghai is situated near the entertainment district of Shanghai 2 miles from The Bund.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 110
+----------------------------------------
+Hotel Name: Four Seasons Hotel Shanghai
+Star Rating: 5
+Price Range: 250 USD
+Description: Guests can have a buffet breakfast and enjoy visiting Yu Garden, set about 1.9 miles from the 5-star Four Seasons Hotel Shanghai.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 105
+----------------------------------------
+Hotel Name: Courtyard By Marriott Shanghai Xujiahui
+Star Rating: 4
+Price Range: 70 USD
+Description: Situated in a business neighbourhood, 0.7 miles from Xujiahui Park, the 4-star Courtyard By Marriott Shanghai Xujiahui Shanghai accommodates its guests in 319 rooms and offers sauna facilities and an indoor pool.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 73
+----------------------------------------
+Hotel Name: The Shanghai Edition
+Star Rating: 5
+Price Range: 441 USD
+Description: A 15-minute walk from Old Town, the 5-star Edition Shanghai offers an a tropical garden garden along with a hot tub and an indoor pool.
+Location: Shanghai, China
+Rating Value: 8.0
+Rating Count: 41
+----------------------------------------
+Hotel Name: Doubletree By Hilton Shanghai Pudong - Present Welcome Cookie
+Star Rating: 5
+Price Range: 121 USD
+Description: Featuring indoor heated pool along with a hot tub, sauna facilities and an indoor pool, the 47-story fully serviced Doubletree By Hilton Shanghai - Pudong Shanghai offers a central setting within walking distance of Century Park.
+Location: Shanghai, China
+Rating Value: 7.8
+Rating Count: 130
+----------------------------------------
+Hotel Name: Holiday Inn Shanghai Vista, An Ihg Hotel
+Star Rating: 4
+Price Range: 71 USD
+Description: Offering sauna facilities and an indoor pool together with a lounge bar, the 4-star non-smoking Holiday Inn Shanghai Vista, An Ihg boasts its setting 10 minutes by foot from Changshou Road metro station.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 59
+----------------------------------------
+Hotel Name: Jing An Hotel
+Star Rating: 4
+Price Range: 155 USD
+Description: Comprising 126 rooms, the Jing An Shanghai is set near an entertainment district within 1.7 miles of Former French Concession.
+Location: Shanghai, China
+Rating Value: 7.6
+Rating Count: 38
+----------------------------------------
+Hotel Name: The Land Hotel Shanghai
+Star Rating: 4
+Price Range: 56 USD
+Description: The 4-star Land Hotel is situated in the Minhang district, 10 minutes' drive from Shanghai Hongqiao International airport.
+Location: Shanghai, China
+Rating Value: 7.0
+Rating Count: 5
+----------------------------------------
+Hotel Name: Hengshan Garden Hotel
+Star Rating: 5
+Price Range: 96 USD
+Description: The 5-star non-smoking Hengshan Garden offers aerobics classes and live entertainment in a shopping area of Shanghai, within a 10-minute drive of Shanghai Propaganda Poster Art Centre.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 81
+----------------------------------------
+Hotel Name: Ocean Hotel Shanghai
+Star Rating: 5
+Price Range: 92 USD
+Description: Jin Mao Tower is a 25-minute stroll from the 5-star Ocean Hotel Shanghai, while The Ritz-Carlton Spa is 1.8 miles away.
+Location: Shanghai, China
+Rating Value: 8.0
+Rating Count: 14
+----------------------------------------
+Hotel Name: The Qube Hotel Shanghai - Pudong International Airport
+Star Rating: 5
+Price Range: 88 USD
+Description: Greenland's East Coast Plaza is 800 feet from the luxury Qube Hotel Shanghai - Pudong International Airport Shanghai and Chuansha Ancient City Wall is about 15 minutes' walk away.
+Location: Shanghai, China
+Rating Value: 8.6
+Rating Count: 561
+----------------------------------------
+Hotel Name: Ifc Residence
+Star Rating: 5
+Price Range: 209 USD
+Description: Offering location in the shopping district of Shanghai above a subway station, the Ifc Residence Shanghai has 296 rooms and an indoor pool.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 112
+----------------------------------------
+Hotel Name: Rayfont Downtown Hotel Shanghai
+Star Rating: 4
+Price Range: 56 USD
+Description: The 33-story Rayfont Downtown Hotel is settled in a shopping district, around 2.2 miles from People's Square, and includes a coffee bar.
+Location: Shanghai, China
+Rating Value: 7.6
+Rating Count: 119
+----------------------------------------
+Hotel Name: Sunrise On The Bund
+Star Rating: 5
+Price Range: 110 USD
+Description: The 5-star non-smoking Sunrise On The Bund offers aerobics classes, facials and massage therapy within nearly a 5-minute stroll from Huangpu River.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 57
+----------------------------------------
+Hotel Name: Pullman Shanghai Jing An
+Star Rating: 5
+Price Range: 94 USD
+Description: Boasting an Asian menu, the 5-star designer Pullman Shanghai Jing An has 287 rooms, featuring a setting near a railroad station in the Jing'an district.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 390
+----------------------------------------
+Hotel Name: Charms Hotel Shanghai
+Star Rating: 3
+Price Range: 44 USD
+Description: Situated in the Downtown Shanghai district, the 3-star Charms Hotel offers quick access to Shanghai Hongqiao International airport within 13 minutes' drive.
+Location: Shanghai, China
+Rating Value: 7.8
+Rating Count: 173
+----------------------------------------
+Hotel Name: Shanghai Hongkou Sanzhi International Hotel
+Star Rating: 5
+Price Range: 106 USD
+Description: Featuring an à la carte restaurant and a swimming pool, the 5-star Sheraton Shanghai Hongkou offers a setting a short walk from a subway station.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 100
+----------------------------------------
+Hotel Name: J Hotel, Shanghai Tower - Above All Else, Overlooking The Bund
+Star Rating: 5
+Price Range: 529 USD
+Description: The 5-star J Hotel, Shanghai Tower is settled in the Pudong district, about a 10-minute walk from Jin Mao Tower, and includes a lobby bar.
+Location: Shanghai, China
+Rating Value: 8.0
+Rating Count: 10
+----------------------------------------
+Hotel Name: The Eton Hotel Shanghai
+Star Rating: 4
+Price Range: 55 USD
+Description: Guests can choose from 460 rooms, enjoy sauna facilities and an indoor pool, available in the exquisite Eton Hotel Shanghai centrally set in the financial district of Shanghai.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 64
+----------------------------------------
+Hotel Name: Holiday Inn Shanghai Pudong, An Ihg Hotel
+Star Rating: 4
+Price Range: 80 USD
+Description: Offering 352 contemporary rooms along with table tennis and billiard on-site, the non-smoking Pudong Shanghai is nestled in a financial area near a train station.
+Location: Shanghai, China
+Rating Value: 8.0
+Rating Count: 127
+----------------------------------------
+Hotel Name: Kempinski The One Suites Hotel Shanghai Downtown
+Star Rating: None
+Price Range: 149 USD
+Description: The surrounding area includes Shanghai Natural History Museum, a 6-minute walk away, and West Nanjing Road subway station a mere 10 minutes by foot from the 5-star smoke-free Kempinski The One Suites Hotel Shanghai Downtown.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 233
+----------------------------------------
+Hotel Name: Seventh Heaven Hotel
+Star Rating: 3
+Price Range: 66 USD
+Description: The smoke free Seventh Heaven offers modern rooms a few steps from a shopping district 25 minutes by foot from Shanghai World Financial Center.
+Location: Shanghai, China
+Rating Value: 8.0
+Rating Count: 486
+----------------------------------------
+Hotel Name: Jinling Purple Mountain Hotel Shanghai（Shanghai Grand Trustel Purple Mountain Hotel）
+Star Rating: 5
+Price Range: 79 USD
+Description: Guests can take a swim in an outdoor swimming pool or enjoy a lounge bar available in the Jinling Purple Mountain Hotel Shanghai（Shanghai Grand Trustel Purple Mountain Hotel） Shanghai, conveniently set in a shopping neighbourhood.
+Location: Shanghai, China
+Rating Value: 8.0
+Rating Count: 154
+----------------------------------------
+Hotel Name: Holiday Inn Shanghai Hongqiao, An Ihg Hotel
+Star Rating: 4
+Price Range: 104 USD
+Description: Set near a metro station in the Minhang district of Shanghai, the 4-star Holiday Inn Shanghai Hongqiao, An Ihg Shanghai includes 361 rooms as well as fitness classes, spa therapy and various recreational opportunities.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 37
+----------------------------------------
+Hotel Name: Evergreen Laurel Hotel, Shanghai
+Star Rating: 4
+Price Range: 219 USD
+Description: Located in the shopping Pudong district, within 2.3 miles of Shanghai New International Expo Center, the 4-star Evergreen Laurel Hotel, offers access to a hot tub and sauna facilities.
+Location: Shanghai, China
+Rating Value: 8.6
+Rating Count: 22
+----------------------------------------
+Hotel Name: Bellagio By Mgm Shanghai - On The Bund
+Star Rating: 5
+Price Range: 338 USD
+Description: Offering 162 rooms with views of the city, the Bellagio Shanghai is set in an entertainment neighbourhood, about 1.4 miles from The Ritz-Carlton Spa.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 9
+----------------------------------------
+Hotel Name: Pullman Shanghai South
+Star Rating: 5
+Price Range: 97 USD
+Description: Located in a shopping area and 1.6 miles from Shanghai Stadium, as well as within a stroll of a railroad station, the non-smoking Pullman Shanghai South offers aerobics classes, massage therapy and entertainment activities.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 16
+----------------------------------------
+Hotel Name: Jinqiao Yachts Hotel
+Star Rating: 4
+Price Range: 73 USD
+Description: Situated in the very heart of Shanghai and 15 minutes' drive from Shanghai New International Expo Center, the Jinqiao Yachts offers 125 rooms.
+Location: Shanghai, China
+Rating Value: 7.6
+Rating Count: 6
+----------------------------------------
+Hotel Name: Ssaw Boutique Hotel Shanghai Bund
+Star Rating: 4
+Price Range: 87 USD
+Description: Located 0.2 miles from The Bund City Sculptures, the 4-star Ssaw Boutique Hotel Shanghai Bund Shanghai features fitness classes and massage therapy as well as offers a buffet breakfast.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 652
+----------------------------------------
+Hotel Name: Hyatt Centric Zhongshan Park Shanghai
+Star Rating: 5
+Price Range: 159 USD
+Description: Changfeng Ocean World is 1.4 miles from the lovely 4-star Pentahotel Shanghai and Jade Buddha Temple is around 2 miles away.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 176
+----------------------------------------
+Hotel Name: Royal International Hotel Shanghai - Pudong International Airport
+Star Rating: 5
+Price Range: 80 USD
+Description: Offering a prime location within 0.4 miles of Chuansha Ancient City Wall, the non-smoking Royal International Hotel Shanghai - Pudong International Airport holds a total of 194 rooms and boasts massage therapy and entertainment activities.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 239
+----------------------------------------
+Hotel Name: Four Points By Sheraton Shanghai, Pudong
+Star Rating: 4
+Price Range: 59 USD
+Description: The luxurious Four Points By Sheraton Shanghai, Pudong offers 316 spacious rooms with private bathrooms, 1.4 miles from Shanghai Science and Technology Museum.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 94
+----------------------------------------
+Hotel Name: Parkline Century Park Hotel Shanghai
+Star Rating: 5
+Price Range: 160 USD
+Description: Boasting a sauna and an indoor pool plus a lounge bar, the business Parkline Century Park Hotel is set a 10-minute walk from Middle Yanggao Road subway station.
+Location: Shanghai, China
+Rating Value: 8.0
+Rating Count: 64
+----------------------------------------
+Hotel Name: Intercontinental Shanghai Ruijin, An Ihg Hotel - Downtown Historic Iconic Garden Hotel
+Star Rating: 5
+Price Range: 146 USD
+Description: Within 09 miles of Shikumen Museum, the 5-star Intercontinental Shanghai Ruijin, An Ihg offers sauna facilities, an indoor pool and locker rooms on-site and 216 rooms.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 51
+----------------------------------------
+Hotel Name: Crowne Plaza Shanghai Pudong, An Ihg Hotel
+Star Rating: 5
+Price Range: 96 USD
+Description: Located 22 miles from Shanghai Pudong International airport, the Crowne Plaza Shanghai Pudong, An Ihg features a cash machine and bureau de change for guests' comfort.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 50
+----------------------------------------
+Hotel Name: W Shanghai - The Bund
+Star Rating: 5
+Price Range: 293 USD
+Description: Located 0.9 miles from 1933 Old Millfun, the 5-star W Shanghai - The Bund features fitness classes and entertainment activities for guests' convenience.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 42
+----------------------------------------
+Hotel Name: Anting Villa Hotel
+Star Rating: 4
+Price Range: 102 USD
+Description: Set just a short stroll from a subway station in a shopping neighbourhood, the 4-star Anting Villa includes 166 rooms as well as fitness classes, massage therapy and karaoke.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 78
+----------------------------------------
+Hotel Name: Jing An Shangri-La, Shanghai
+Star Rating: 5
+Price Range: 213 USD
+Description: Boasting prime location in a central district, the 59-story Jing An Shangri-La, offers to try French dishes and enjoy time by an indoor pool.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 37
+----------------------------------------
+Hotel Name: The Hongta Hotel, A Luxury Collection Hotel, Shanghai
+Star Rating: 5
+Price Range: 112 USD
+Description: The unique Hongta Hotel, A Luxury Collection Hotel, Shanghai features an indoor swimming pool along with a hot tub, sauna facilities and an indoor pool in the business district of Shanghai.
+Location: Shanghai, China
+Rating Value: 8.6
+Rating Count: 68
+----------------------------------------
+Hotel Name: Holiday Inn Downtown
+Star Rating: 4
+Price Range: 72 USD
+Description: The Holiday Inn Downtown Shanghai is placed 0.2 miles from M97 Gallery and right next to a railroad station.
+Location: Shanghai, China
+Rating Value: 8.0
+Rating Count: 57
+----------------------------------------
+Hotel Name: Okura Garden Hotel Shanghai
+Star Rating: 5
+Price Range: 128 USD
+Description: Offering a sky bar and a hot tub, sauna facilities and locker rooms, the 31-story luxury Okura Garden Hotel Shanghai is nestled near a metro station.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 135
+----------------------------------------
+Hotel Name: Dorsett Shanghai
+Star Rating: 4
+Price Range: 74 USD
+Description: The comfortable 4-star Dorsett Shanghai features gorgeous views of Century Park and boasts a quiet location in the Pudong district of Shanghai.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 361
+----------------------------------------
+Hotel Name: Shanghai Hengshan Moller Villa Hotel
+Star Rating: 4
+Price Range: 101 USD
+Description: Located in the Downtown Shanghai district of Shanghai and about 2 miles from Yu Garden, as well as near a subway station, the luxury Hengshan Moller Villa Shanghai offers fitness classes and massage therapy.
+Location: Shanghai, China
+Rating Value: 8.0
+Rating Count: 109
+----------------------------------------
+Hotel Name: Shanghai Marriott Hotel Parkview
+Star Rating: 5
+Price Range: 127 USD
+Description: While staying at the 5-star luxury Marriott Hotel Parkview, which is located in the shopping district of Shanghai, you can enjoy the lounge bar and an indoor pool.
+Location: Shanghai, China
+Rating Value: 8.6
+Rating Count: 32
+----------------------------------------
+Hotel Name: Regal Shanghai East Asia Hotel
+Star Rating: 4
+Price Range: 59 USD
+Description: Longhua Temple and Saint Ignatius Cathedral are located 1 miles and 1.2 miles from the Regal Shanghai East Asia respectively.
+Location: Shanghai, China
+Rating Value: 7.6
+Rating Count: 53
+----------------------------------------
+Hotel Name: Wyndham Grand Plaza Royale Oriental Shanghai
+Star Rating: 5
+Price Range: 503 USD
+Description: Situated in an entertainment area, the luxury Wyndham Grand Plaza Royale Oriental Shanghai overlooks the city and features an indoor pool.
+Location: Shanghai, China
+Rating Value: 8.0
+Rating Count: 55
+----------------------------------------
+Hotel Name: Holiday Inn Express Zhabei Shanghai, An Ihg Hotel
+Star Rating: 3
+Price Range: 31 USD
+Description: Offering 472 rooms with views of the business center, the modern Holiday Inn Express Zhabei Shanghai, An Ihg is set in the Jing'an district of Shanghai, 1.8 miles from Jing'an Sculputure Park.
+Location: Shanghai, China
+Rating Value: 8.2
+Rating Count: 329
+----------------------------------------
+Hotel Name: Holiday Inn Shanghai Nanjing Road, An Ihg Hotel
+Star Rating: 5
+Price Range: 105 USD
+Description: The comfortable 5-star Holiday Inn Shanghai Nanjing Road, An Ihg is nestled in the very heart of a financial area, 14 minutes' drive from Shanghai Hongqiao International airport.
+Location: Shanghai, China
+Rating Value: 8.6
+Rating Count: 588
+----------------------------------------
+Hotel Name: Urbn Boutique Shanghai
+Star Rating: 4
+Price Range: 107 USD
+Description: Providing access to Jing'an Temple, the modern Urbn Boutique is merely 0.6 miles from Shanghai Exhibition Center and offers an à la carte restaurant.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 84
+----------------------------------------
+Hotel Name: Central Hotel Shanghai
+Star Rating: 4
+Price Range: 96 USD
+Description: Offering massage therapy, karaoke and billiard, the 4-star Shanghai Shanghai is 10 minutes by car from Souvenir shopping as well as within 0.5 miles of People's Square.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 318
+----------------------------------------
+Hotel Name: The Kunlun Jing An
+Star Rating: 5
+Price Range: 100 USD
+Description: Featuring 786 rooms with views of the city, the comfortable Kunlun Jing An Shanghai is set within a 10-minute drive of Jade Buddha Temple.
+Location: Shanghai, China
+Rating Value: 8.4
+Rating Count: 243
+----------------------------------------
+Hotel Name: Merry Hotel Shanghai
+Star Rating: 4
+Price Range: 69 USD
+Description: Offering 249 rooms as well as a hot tub and sauna facilities, the 4-star Merry Hotel is set merely 5 minutes' walk from Jing'an Temple and about a 10-minute walk from Jiangsu Road subway station.
+Location: Shanghai, China
+Rating Value: 8.0
+Rating Count: 92
+----------------------------------------
+Hotel Name: W Barcelona
+Star Rating: 5
+Price Range: 344 USD
+Description: Enjoying a great location in an old neighbourhood, the 5-star W includes 473 rooms with panoramic views of the area.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 1232
+----------------------------------------
+Hotel Name: Majestic Hotel & Spa Barcelona Gl
+Star Rating: 5
+Price Range: 201 USD
+Description: The classic 5-star Majestic Hotel & Spa Barcelona Gl Barcelona, located around 2 miles from Camp Nou, boasts an outdoor swimming pool along with steam baths, a hot tub and sauna facilities.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 552
+----------------------------------------
+Hotel Name: Hotel Arts Barcelona
+Star Rating: 5
+Price Range: 54 USD
+Description: Featuring a swimming pool together with a hot tub, sauna facilities and an outdoor swimming pool, the luxury Arts is located 500 feet from Ciutadella Park and a 5-minute drive from Arco de Triunfo de Barcelona.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 614
+----------------------------------------
+Hotel Name: Hilton Barcelona
+Star Rating: 4
+Price Range: 213 USD
+Description: While staying at the stylish Hilton you are invited to discover Casa Mila, set about 1.7 miles away, or Parc Guell, which is about 2 miles away.
+Location: Barcelona, Spain
+Rating Value: 8.2
+Rating Count: 354
+----------------------------------------
+Hotel Name: Grand Hotel Central, Small Luxury Hotels
+Star Rating: 5
+Price Range: 436 USD
+Description: Boasting views of the city walls, along with fitness classes and hammam, the 5-star designer Grand Hotel Central, Small Luxury Hotels Barcelona is set near a railroad station.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 825
+----------------------------------------
+Hotel Name: Colon Hotel Barcelona
+Star Rating: 4
+Price Range: 346 USD
+Description: Situated 8 minutes by foot from Las Ramblas, the 4-star Colon Hotel Barcelona features 137 rooms with private bathrooms.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 814
+----------------------------------------
+Hotel Name: Hotel 1898
+Star Rating: 4
+Price Range: 285 USD
+Description: Boasting a prime location 5 minutes by foot from Liceu subway station, the 4-star 1898 offers views of the city and a hot tub, sauna facilities and an outdoor swimming pool.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 982
+----------------------------------------
+Hotel Name: Renaissance Barcelona Hotel
+Star Rating: 5
+Price Range: 343 USD
+Description: While staying at the perfect Renaissance Barcelona, which is located in the Eixample district, you can enjoy the lounge bar and the outdoor swimming pool.
+Location: Barcelona, Spain
+Rating Value: 8.2
+Rating Count: 183
+----------------------------------------
+Hotel Name: Hotel El Palace Barcelona
+Star Rating: 5
+Price Range: 584 USD
+Description: Set a few feet from a metro station in the Eixample district, the 5-star luxurious El Palace includes 120 rooms as well as fitness classes and spa therapy.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 632
+----------------------------------------
+Hotel Name: Le Meridien Barcelona
+Star Rating: 5
+Price Range: 440 USD
+Description: Offering a cocktail bar onsite, along with a solarium, a hot tub and sauna facilities, the comfortable 5-star Le Meridien Barcelona boasts a location in the cosmopolitan Ciutat Vella district.
+Location: Barcelona, Spain
+Rating Value: 8.2
+Rating Count: 219
+----------------------------------------
+Hotel Name: Barcelo Sants
+Star Rating: 4
+Price Range: 186 USD
+Description: Boasting a solarium and sauna facilities, the 4-star Barcelo Sants Barcelona is situated approximately a 5-minute walk from The Dragon and with direct access to a train station.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 1041
+----------------------------------------
+Hotel Name: Claris Hotel & Spa Gl, A Small Luxury Hotel Of The World
+Star Rating: 5
+Price Range: 352 USD
+Description: Located within 850 feet of Passeig de Gracia subway station and about a 5-minute stroll from Fundacio Antoni Tapies, the 5-star designer Claris Hotel & Spa Gl, A Small Luxury Hotel Of The World boasts a solarium, sauna facilities and an outdoor swimming pool.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 626
+----------------------------------------
+Hotel Name: Condes De Barcelona
+Star Rating: 4
+Price Range: 306 USD
+Description: The perfect 4-star Condes De is right at Casa Batllo and has sauna facilities and an outdoor swimming pool.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 664
+----------------------------------------
+Hotel Name: Seventy Barcelona
+Star Rating: 4
+Price Range: 377 USD
+Description: Set 5 minutes by foot from Casa Mila in the Eixample district of Barcelona, the 4-star Seventy features an outdoor swimming pool.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 272
+----------------------------------------
+Hotel Name: Ohla Barcelona
+Star Rating: 5
+Price Range: 416 USD
+Description: Located in the very heart of Barcelona, a mere 10 minutes by foot from Mercado de La Boqueria, the Ohla features a solarium, sauna facilities and an outdoor swimming pool.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 1069
+----------------------------------------
+Hotel Name: Intercontinental Barcelona, An Ihg Hotel
+Star Rating: 5
+Price Range: 120 USD
+Description: Located within a 10-minute drive of Camp Nou, the elegant Intercontinental Barcelona, An Ihg includes a traditional Hammam, a dry sauna and a hot tub along with Catalan cuisine.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 715
+----------------------------------------
+Hotel Name: Nobu Hotel Barcelona
+Star Rating: 5
+Price Range: 416 USD
+Description: A snack bar as well as an à la carte restaurant are on the premises of the Nobu Hotel, set 0.2 miles from Venus moderna and just 650 feet from Barcelona Sants railway subway station.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 224
+----------------------------------------
+Hotel Name: Hotel Neri - Relais & Chateaux
+Star Rating: 5
+Price Range: 262 USD
+Description: While staying at the classic Neri - Relais & Chateaux Barcelona, which is located in the old district of Barcelona, you can enjoy the terrace bar and the outdoor swimming pool.
+Location: Barcelona, Spain
+Rating Value: 8.2
+Rating Count: 169
+----------------------------------------
+Hotel Name: Almanac Barcelona
+Star Rating: 5
+Price Range: 420 USD
+Description: Located approximately 6 minutes' stroll from Passeig de Gracia, the Almanac boasts a traditional Hammam, sauna facilities and an outdoor swimming pool, plus has 91 rooms to offer in the very heart of the city.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 185
+----------------------------------------
+Hotel Name: Hotel Sofia Barcelona, In The Unbound Collection By Hyatt
+Star Rating: 5
+Price Range: 251 USD
+Description: The 5-star luxury Sofia Barcelona, In The Unbound Collection By Hyatt is located within 2.6 miles of Placa de Catalunya and near a subway station.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 857
+----------------------------------------
+Hotel Name: Mandarin Oriental, Barcelona
+Star Rating: 5
+Price Range: 1054 USD
+Description: Featuring an indoor pool along with Turkish steam bath, a solarium and a hot tub on site, the luxurious Mandarin Oriental Barcelona is nestled in a shopping area.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 177
+----------------------------------------
+Hotel Name: Hotel Jazz
+Star Rating: 3
+Price Range: 247 USD
+Description: Boasting a location about 5 minutes' stroll from Placa de Catalunya and near a metro station, the stylish Jazz Barcelona offers enjoyable facilities such as a solarium and an outdoor swimming pool.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 899
+----------------------------------------
+Hotel Name: Monument Hotel
+Star Rating: 5
+Price Range: 1669 USD
+Description: Set in the Eixample district, the perfect Monument features fitness classes, various recreational opportunities and entertainment activities.
+Location: Barcelona, Spain
+Rating Value: 8.2
+Rating Count: 224
+----------------------------------------
+Hotel Name: Barcelona Princess
+Star Rating: 4
+Price Range: 182 USD
+Description: Offering a hydromassage shower, sauna facilities and an outdoor swimming pool together with a swimming pool, the contemporary Princess Barcelona near a bus stop is set in the Sant Marti district.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 2047
+----------------------------------------
+Hotel Name: Barcelo Raval
+Star Rating: 4
+Price Range: 215 USD
+Description: Featuring 186 rooms with views of the pool, the 4-star luxury Barcelo Raval, a 25-minute walk from Casa Batllo, provides guests with steam baths, a plunge pool and a solarium.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 1010
+----------------------------------------
+Hotel Name: Hotel Granvia
+Star Rating: 3
+Price Range: 104 USD
+Description: Set 9 minutes' stroll from Palau de la Musica Catalana, the 3-star Granvia Barcelona features 53 rooms with private bathrooms.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 877
+----------------------------------------
+Hotel Name: Hotel Casa Fuster G.L Monumento
+Star Rating: 5
+Price Range: 561 USD
+Description: Located 8 minutes by foot from Casa Batllo and near a subway station, the modern Casa Fuster G.L Monumento Barcelona offers fitness classes and sun loungers along with Mediterranean dishes.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 562
+----------------------------------------
+Hotel Name: Hilton Diagonal Mar Barcelona
+Star Rating: 4
+Price Range: 204 USD
+Description: The eco-friendly Hilton Diagonal Mar is situated a few feet away from the shopping district of Barcelona, around 5 minutes' stroll from Edificio Telefonica Diagonal.
+Location: Barcelona, Spain
+Rating Value: 8.2
+Rating Count: 498
+----------------------------------------
+Hotel Name: Melia Barcelona Sarria
+Star Rating: 5
+Price Range: 248 USD
+Description: Nestled in a cultural district, the 5-star luxury Melia Barcelona Sarria overlooks the city and has a Jacuzzi, a hot tub and sauna facilities.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 491
+----------------------------------------
+Hotel Name: Sercotel Hotel Rosellon
+Star Rating: 4
+Price Range: 232 USD
+Description: The 4-star designer Sercotel Hotel Rosellon features 148 rooms only 6 minutes' stroll from Jardins d'Antoni Puigvert and less than 10 minutes' stroll from La Sagrada Familia.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 2246
+----------------------------------------
+Hotel Name: Melia Barcelona Sky 4* Sup
+Star Rating: 4
+Price Range: 237 USD
+Description: An outdoor swimming pool as well as spa therapy and loungers are provided at the 4-star Melia Barcelona Sky 4* Sup, which is located in a shopping area, a 6-minute walk from Centro Civico Can Felipa.
+Location: Barcelona, Spain
+Rating Value: 8.2
+Rating Count: 384
+----------------------------------------
+Hotel Name: Serras Barcelona
+Star Rating: 5
+Price Range: 561 USD
+Description: The 5-star boutique Serras Barcelona features 28 fashionable rooms along with a swimming pool, boasting a setting within 5 minutes' walk of Jaume I tube station.
+Location: Barcelona, Spain
+Rating Value: 8.2
+Rating Count: 186
+----------------------------------------
+Hotel Name: H10 Cubik 4* Sup
+Star Rating: 4
+Price Range: 25 USD
+Description: Approximately 13 miles from Barcelona-El Prat airport, the 4-star H10 Cubik 4* Sup offers a solarium and an outdoor swimming pool.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 344
+----------------------------------------
+Hotel Name: The One Barcelona Gl
+Star Rating: 5
+Price Range: 338 USD
+Description: Situated in a central area of Barcelona, the 5-star luxury One Barcelona Gl features fitness classes, facials and loungers.
+Location: Barcelona, Spain
+Rating Value: 8.2
+Rating Count: 284
+----------------------------------------
+Hotel Name: Me Barcelona
+Star Rating: 5
+Price Range: 674 USD
+Description: The surrounding area includes Placa de Catalunya, 900 feet away, and Urquinaona subway station within 900 feet of the 5-star Me Barcelona.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 169
+----------------------------------------
+Hotel Name: Gaudi Hotel
+Star Rating: 3
+Price Range: 132 USD
+Description: Comprising 80 rooms in the heart of Barcelona, the 3-star Gaudi lies 25 minutes' walk from Fundacio Joan Miro.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 1612
+----------------------------------------
+Hotel Name: Mercer Hotel Barcelona
+Star Rating: 5
+Price Range: 451 USD
+Description: 8 minutes by foot from Palau de la Musica Catalana and approximately 0.3 miles from European Museum of Modern Art, the 5-star Mercer Hotel features a swimming pool along with a pool bar.
+Location: Barcelona, Spain
+Rating Value: 8.2
+Rating Count: 145
+----------------------------------------
+Hotel Name: Barcelona Hotel Colonial
+Star Rating: 4
+Price Range: 250 USD
+Description: Situated within 850 feet of Basilica de Santa Maria del Mar, the elegant 4-star Hotel Colonial features 81 rooms with private bathrooms.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 570
+----------------------------------------
+Hotel Name: Catalonia Barcelona Plaza
+Star Rating: 4
+Price Range: 195 USD
+Description: Featuring a rooftop swimming pool as well as sauna facilities and an outdoor swimming pool, the 4-star Catalonia Barcelona Plaza Barcelona is 10 minutes by foot from Espanya subway station, while The Magic Fountain is an 8-minute stroll away.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 1851
+----------------------------------------
+Hotel Name: Hotel Pulitzer Barcelona
+Star Rating: 4
+Price Range: 531 USD
+Description: Near the elegant 4-star Pulitzer, there is a subway station and guests can easily reach Placa de Catalunya which is within 800 feet of from the elegant 4-star Pulitzer.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 967
+----------------------------------------
+Hotel Name: Hotel Casa Bonay
+Star Rating: 4
+Price Range: 317 USD
+Description: Opened in 1869, the Casa Bonay Barcelona welcomes guests in the Eixample district, boasting a central position near a metro station.
+Location: Barcelona, Spain
+Rating Value: 8.2
+Rating Count: 236
+----------------------------------------
+Hotel Name: Boutique Hotel H10 Montcada
+Star Rating: 4
+Price Range: 123 USD
+Description: Placed 10 minutes' stroll from Mercado de La Boqueria in a business area, the perfect 4-star Boutique Hotel H10 Montcada offers a solarium, a Jacuzzi and sauna facilities onsite.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 561
+----------------------------------------
+Hotel Name: Hotel Espana Ramblas
+Star Rating: 4
+Price Range: 108 USD
+Description: Offering a seasonal outdoor swimming pool, the 4-star Espana Ramblas is located in the old part of Barcelona, approximately 1.4 miles from Ciutadella Park.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 794
+----------------------------------------
+Hotel Name: Duquesa De Cardona Hotel 4 Sup By Duquessa Hotel Collection
+Star Rating: 4
+Price Range: 660 USD
+Description: Located 8 minutes by foot from Basilica de Santa Maria del Mar, the comfortable Duquesa De Cardona 4* Sup Barcelona includes 66 rooms as well as a plunge pool and a solarium.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 737
+----------------------------------------
+Hotel Name: The Corner Hotel
+Star Rating: 4
+Price Range: 207 USD
+Description: Situated in the heart of Barcelona and approximately 2 miles from Camp Nou, the 4-star Corner offers 72 rooms.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 288
+----------------------------------------
+Hotel Name: Petit Palace Boqueria Garden
+Star Rating: 4
+Price Range: 397 USD
+Description: A private location of the 4-star Petit Palace Boqueria Garden provides easy access to Casa Batllo within a 25-minute walk.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 1046
+----------------------------------------
+Hotel Name: Ac Hotel Barcelona Forum By Marriott
+Star Rating: 4
+Price Range: 766 USD
+Description: Including steam baths, a hot tub and sauna facilities, the charming 4-star Ac Hotel Barcelona Forum By Marriott Barcelona offers an outdoor swimming pool and boasts a location in the Sant Marti district of Barcelona just 5 minutes' stroll from Diagonal Mar Centro Comercial.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 584
+----------------------------------------
+Hotel Name: Novotel Barcelona City
+Star Rating: 4
+Price Range: 226 USD
+Description: With views towards outdoor swimming pool, the 4-star Novotel Barcelona City provides guests with a Turkish bath, a traditional Hammam, and a plunge pool and is located a mere 6 minutes by foot from Placa de les Glories Catalanes.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 685
+----------------------------------------
+Hotel Name: Hotel Barcelona Universal
+Star Rating: 4
+Price Range: 184 USD
+Description: Set near a cable car station in the Ciutat Vella district of Barcelona, the 4-star Universal Barcelona offers a swimming pool along with a solarium and an outdoor swimming pool.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 794
+----------------------------------------
+Hotel Name: Cotton House Hotel, Autograph Collection
+Star Rating: 5
+Price Range: 470 USD
+Description: Offering a swimming pool with views of city, the Cotton House Hotel, Autograph Collection is located in the Eixample district of Barcelona.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 88
+----------------------------------------
+Hotel Name: Gallery Hotel 4 Sup
+Star Rating: 4
+Price Range: 290 USD
+Description: Featuring fitness classes and steam baths, the excellent 4-star Gallery is just 6 minutes' walk from La Central as well as near a metro station.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 544
+----------------------------------------
+Hotel Name: El Avenida Palace
+Star Rating: 4
+Price Range: 327 USD
+Description: Boasting a prestigious location in a business district near a subway station, the 4-star historical El Avenida Palace Barcelona features fitness classes and various recreational opportunities on site.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 1041
+----------------------------------------
+Hotel Name: H10 Metropolitan 4* Sup
+Star Rating: 4
+Price Range: 163 USD
+Description: The historical H10 Metropolitan 4* Sup enjoys an ideal location in the very heart of Barcelona and offers direct access to Passeig de Gracia.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 379
+----------------------------------------
+Hotel Name: Kimpton Vividora Hotel, An Ihg Hotel
+Star Rating: 5
+Price Range: 113 USD
+Description: A treatment room and an outdoor swimming pool or a rooftop swimming pool will help to relax at the pet-friendly Kimpton Vividora, located just a short stroll from a subway station.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 1317
+----------------------------------------
+Hotel Name: Axel Hotel Barcelona - Adults Only
+Star Rating: 4
+Price Range: 190 USD
+Description: The 4-star smoke-free Axel Hotel Barcelona & Urban Spa- Adults Only is set 0.5 miles from Passeig de Gracia and offers a solarium, a Jacuzzi and sauna facilities.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 1570
+----------------------------------------
+Hotel Name: Innside By Melia Barcelona Apolo
+Star Rating: 4
+Price Range: 407 USD
+Description: Situated a 9-minute stroll from Columbus Monument, the 4-star eco-friendly Innside By Melia Barcelona Apolo features spa therapy and various recreational opportunities along with 314 rooms.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 634
+----------------------------------------
+Hotel Name: Hotel Miramar Barcelona Gl
+Star Rating: 5
+Price Range: 265 USD
+Description: Guests can enjoy an à la carte restaurant and fitness classes and spa therapy at the 5-star Miramar Barcelona Gl, set near a subway station.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 654
+----------------------------------------
+Hotel Name: Hotel Continental Barcelona
+Star Rating: 3
+Price Range: 109 USD
+Description: 20 rooms and unique service are available at the Continental Barcelona, which is located close to a bus stop and 0.7 miles from Casa Mila.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 629
+----------------------------------------
+Hotel Name: Occidental Atenea Mar - Adults Only
+Star Rating: 4
+Price Range: 183 USD
+Description: Located in the Sant Marti district close to a bus stop, the 4-star eco-friendly Occidental Atenea Mar - Adults Only offers 191 rooms and a terrace bar.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 763
+----------------------------------------
+Hotel Name: Occidental Diagonal 414
+Star Rating: 4
+Price Range: 352 USD
+Description: The Occidental Diagonal 414 features the outdoor swimming pool and 100 rooms facing the city.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 238
+----------------------------------------
+Hotel Name: Hotel Barcelona Catedral
+Star Rating: 4
+Price Range: 144 USD
+Description: Offering warm atmosphere, the 4-star Catedral Barcelona is set in the historical Ciutat Vella district and just 6 minutes by foot from Placa Sant Jaume.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 1386
+----------------------------------------
+Hotel Name: Nh Collection Barcelona Constanza
+Star Rating: 4
+Price Range: 201 USD
+Description: Offering a lobby area and a restaurant, the recently built Nh Collection Barcelona Constanza Barcelona lies in a financial area, within 2 miles of Gothic Quarter and around 25 minutes by foot from Casa Batllo.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 778
+----------------------------------------
+Hotel Name: Hotel Bagues, A Small Luxury Hotel Of The World
+Star Rating: 5
+Price Range: 193 USD
+Description: Near a subway station in the Ciutat Vella district of Barcelona, the 5-star Bagues, A Small Luxury Hotel Of The World Barcelona offers fashionable rooms along with a plunge pool and a solarium.
+Location: Barcelona, Spain
+Rating Value: 8.2
+Rating Count: 275
+----------------------------------------
+Hotel Name: Hotel Indigo Barcelona - Plaza Catalunya 4Sup, An Ihg Hotel
+Star Rating: 4
+Price Range: 158 USD
+Description: Located in the Eixample district of Barcelona and around 7 minutes' stroll from Teatro Coliseum, as well as near a subway station, the designer Indigo Barcelona - Plaza Catalunya, An Ihg Barcelona offers fitness classes, spa therapy and various recreational opportunities.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 829
+----------------------------------------
+Hotel Name: H10 Marina Barcelona
+Star Rating: 4
+Price Range: 213 USD
+Description: Boasting a Spanish cuisine together with steam baths, a Jacuzzi and sauna facilities, the exquisite H10 Marina is located just a short stroll from a port.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 938
+----------------------------------------
+Hotel Name: Hotel Barcelona Center
+Star Rating: 4
+Price Range: 235 USD
+Description: The quality Center is a perfect vacation spot approximately 1.5 miles from Basilica de Santa Maria del Mar and other Barcelona landmarks.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 1103
+----------------------------------------
+Hotel Name: Aparthotel Arai 4* Superior
+Star Rating: 4
+Price Range: 124 USD
+Description: The unique Aparthotel Arai 4* Superior Barcelona, set in the Ciutat Vella district, features sauna facilities and an outdoor swimming pool.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 180
+----------------------------------------
+Hotel Name: Royal Ramblas
+Star Rating: 4
+Price Range: 268 USD
+Description: Located within a 5-minute walk of Mercado de La Boqueria, the excellent Royal Ramblas Barcelona features 102 rooms with views of the city.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 1759
+----------------------------------------
+Hotel Name: Hotel Rialto
+Star Rating: 3
+Price Range: 202 USD
+Description: Offering a privileged location near a subway station, the 3-star Rialto features entertainment activities and various recreational opportunities.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 836
+----------------------------------------
+Hotel Name: Casa Camper Barcelona
+Star Rating: 4
+Price Range: 322 USD
+Description: With fitness classes, massage therapy and billiard at the premises, the unique Casa Camper Barcelona is located a 16-minute stroll from Columbus Monument.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 515
+----------------------------------------
+Hotel Name: Eurostars Grand Marina Hotel Gl
+Star Rating: 5
+Price Range: 221 USD
+Description: Set just a 9-minute walk from Columbus Monument, the wonderful 5-star Eurostars Grand Marina Hotel Gl Barcelona features fitness classes and massage therapy.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 1537
+----------------------------------------
+Hotel Name: Radisson Blu 1882 Hotel, Barcelona Sagrada Familia
+Star Rating: 4
+Price Range: 366 USD
+Description: Nearly a 25-minute stroll from Passeig de Gracia, the 4-star Radisson Blu 1882 Hotel, Barcelona Sagrada Familia offers fitness classes and entertainment activities plus a swimming pool.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 446
+----------------------------------------
+Hotel Name: Catalonia Catedral
+Star Rating: 4
+Price Range: 142 USD
+Description: Comprising 71 rooms, the perfect 4-star Catalonia Catedral is set near the beach district of Barcelona, around a 25-minute walk from Basilica of the Sagrada Familia.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 1863
+----------------------------------------
+Hotel Name: Catalonia Magdalenes
+Star Rating: 4
+Price Range: 148 USD
+Description: Featuring 61 comfortable rooms and a swimming pool, the 4-star Catalonia Magdalenes Barcelona is located 9 minutes by foot from Mercado de La Boqueria.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 275
+----------------------------------------
+Hotel Name: Occidental Barcelona 1929
+Star Rating: 3
+Price Range: 250 USD
+Description: The comfortable 3-star Occidental Barcelona 1929 Barcelona features rooms with views of the city, while a comfortable location provides access to Casa Batllo, which is 5 minutes' drive away.
+Location: Barcelona, Spain
+Rating Value: 8.2
+Rating Count: 269
+----------------------------------------
+Hotel Name: Hotel Regina Barcelona
+Star Rating: 4
+Price Range: 223 USD
+Description: Offering fitness classes and various recreational opportunities, the 4-star luxury Regina Barcelona is merely a 10-minute stroll from Universitat subway station and provides easy access to Ciutadella Park.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 1202
+----------------------------------------
+Hotel Name: Hotel Nouvel
+Star Rating: 3
+Price Range: 305 USD
+Description: Placed 800 feet from Placa de Catalunya and in the center of Barcelona, the 3-star Nouvel offers 95 rooms.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 485
+----------------------------------------
+Hotel Name: H10 Universitat
+Star Rating: 4
+Price Range: 102 USD
+Description: Located less than a 5-minute stroll from Placa de Catalunya and within 0.6 miles of Casa Mila, the charming 4-star H10 Universitat Barcelona offers 94 comfortable rooms.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 851
+----------------------------------------
+Hotel Name: Sixtytwo Hotel
+Star Rating: 4
+Price Range: 126 USD
+Description: Sitting 1.7 miles from Parc Guell, the comfortable Sixtytwo Barcelona is located in the Eixample district.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 812
+----------------------------------------
+Hotel Name: Silken Sant Gervasi
+Star Rating: 3
+Price Range: 48 USD
+Description: The modern Silken Sant Gervasi Barcelona is situated near the entertainment district of Barcelona, 600 feet from Edificio Alhambra and offers spa therapy and various recreational opportunities.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 499
+----------------------------------------
+Hotel Name: Olivia Plaza Hotel
+Star Rating: 4
+Price Range: 220 USD
+Description: Located in the center of Barcelona, a 7-minute stroll from Mercado de La Boqueria and within walking distance of Placa de Catalunya, the smoke free Olivia Plaza offers spa therapy and various recreational opportunities.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 1154
+----------------------------------------
+Hotel Name: H10 Urquinaona Plaza
+Star Rating: 4
+Price Range: 163 USD
+Description: Offering a central location approximately 0.3 miles from La Taverna de Barcelona, the welcoming H10 Urquinaona Plaza features a swimming pool and an American restaurant.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 400
+----------------------------------------
+Hotel Name: Gran Hotel Havana 4Sup By Escampa Hotels
+Star Rating: 4
+Price Range: 90 USD
+Description: Set around 10 minutes' drive from Camp Nou, the deluxe Gran Hotel Havana 4Sup By Escampa Hotels Barcelona includes 145 rooms, along with a solarium, sauna facilities and an outdoor swimming pool.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 891
+----------------------------------------
+Hotel Name: Expo Hotel Barcelona
+Star Rating: 4
+Price Range: 178 USD
+Description: While staying at the Expo Hotel you are invited to discover CaixaForum Barcelona, set 0.8 miles away, or Tourism Information Office at Barcelona Sants Train, which is a 5-minute walk away.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 2329
+----------------------------------------
+Hotel Name: Alexandra Barcelona Hotel, Curio Collection By Hilton
+Star Rating: 4
+Price Range: 55 USD
+Description: The broiler restaurant with Mediterranean dishes and the 4-star modern Alexandra Barcelona Hotel, Curio Collection By Hilton's great location make it one of the best accommodation options in the Eixample district.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 330
+----------------------------------------
+Hotel Name: Four Points By Sheraton Barcelona Diagonal
+Star Rating: 4
+Price Range: 73 USD
+Description: The 3-star Four Points By Sheraton Barcelona Diagonal is situated in an exclusive area, 25 minutes' drive from Barcelona-El Prat airport.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 733
+----------------------------------------
+Hotel Name: Ohla Eixample
+Star Rating: 5
+Price Range: 236 USD
+Description: Set approximately a 25-minute stroll from Mercado de La Boqueria, the Ohla Eixample boasts fitness classes, massage therapy and entertainment activities available on site.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 256
+----------------------------------------
+Hotel Name: H10 Art Gallery 4* Sup
+Star Rating: 4
+Price Range: 105 USD
+Description: The 4-star luxurious H10 Art Gallery 4* Sup Barcelona features 91 rooms within a 6-minute walk of Iglesia Sant Ramon De Penyafort and about 10 minutes' walk from Diagonal.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 417
+----------------------------------------
+Hotel Name: H10 Raco Del Pi
+Star Rating: 3
+Price Range: 93 USD
+Description: Columbus Monument and Casa Batllo are located 0.6 miles and 1 miles from the 3-star H10 Raco Del Pi respectively.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 626
+----------------------------------------
+Hotel Name: Sir Victor Hotel, Part Of Sircle Collection
+Star Rating: 5
+Price Range: 451 USD
+Description: Set a mere 8 minutes' walk from Casa Batllo in the Eixample district of Barcelona, the designer Sir Victor Hotel, Part Of Sircle Collection features the outdoor swimming pool.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 448
+----------------------------------------
+Hotel Name: Andante Hotel
+Star Rating: 3
+Price Range: 182 USD
+Description: Featuring a rooftop pool along with 135 comfortable rooms, the 3-star eco-friendly Andante is nestled in a theater district.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 1780
+----------------------------------------
+Hotel Name: Hcc Montblanc
+Star Rating: 3
+Price Range: 82 USD
+Description: Featuring a solarium, a terrace, and loungers, the perfect 3-star HCC Montblanc has a superb setting just a 6-minute stroll from Cathedral of Barcelona.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 879
+----------------------------------------
+Hotel Name: H10 Casa Mimosa 4* Sup
+Star Rating: 4
+Price Range: 130 USD
+Description: The 4-star luxury H10 Casa Mimosa 4* Sup Barcelona is ideally located in the Eixample district and has 48 rooms with views of the city.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 279
+----------------------------------------
+Hotel Name: H10 Port Vell 4* Sup
+Star Rating: 4
+Price Range: 310 USD
+Description: Situated within 0.3 miles of Basilica de Santa Maria del Mar, the superior 4-star H10 Port Vell 4* Sup features 58 rooms with private bathrooms.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 427
+----------------------------------------
+Hotel Name: Allegro Barcelona
+Star Rating: 3
+Price Range: 223 USD
+Description: The perfect Allegro is set in the very heart of Barcelona and around 10 minutes' stroll from Diagonal subway station.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 1394
+----------------------------------------
+Hotel Name: Olivia Balmes Hotel
+Star Rating: 4
+Price Range: 345 USD
+Description: Situated in the heart of Barcelona and approximately 1.3 miles from Placa d'Espanya, the superior 4-star Olivia Balmes offers 128 rooms.
+Location: Barcelona, Spain
+Rating Value: 8.2
+Rating Count: 341
+----------------------------------------
+Hotel Name: Boutique Hotel H10 Catalunya Plaza
+Star Rating: 3
+Price Range: 332 USD
+Description: The 3-star Boutique Hotel H10 Catalunya Plaza is nestled in the heart of Barcelona and a 10-minute drive from the Unesco-listed Parc Guell.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 590
+----------------------------------------
+Hotel Name: Oriente Atiram
+Star Rating: 3
+Price Range: 182 USD
+Description: Comprising 142 rooms in the middle of Barcelona, the 3-star Oriente Atiram lies about a 10-minute drive from Basilica of the Sagrada Familia.
+Location: Barcelona, Spain
+Rating Value: 8.2
+Rating Count: 749
+----------------------------------------
+Hotel Name: Nh Collection Barcelona Podium
+Star Rating: 4
+Price Range: 672 USD
+Description: Offering a lounge bar onsite, along with a solarium, sauna facilities and an outdoor swimming pool, the comfortable 4-star Nh Collection Barcelona Podium Barcelona boasts a location in the shopping Eixample district.
+Location: Barcelona, Spain
+Rating Value: 8.4
+Rating Count: 753
+----------------------------------------
+Hotel Name: Ilunion Barcelona
+Star Rating: 4
+Price Range: 183 USD
+Description: At the 4-star Ilunion, located in the Sant Marti district of Barcelona, guests can relax at the snack bar.
+Location: Barcelona, Spain
+Rating Value: 8.6
+Rating Count: 1928
+----------------------------------------
+Hotel Name: Okada Manila
+Star Rating: 5
+Price Range: 177 USD
+Description: Offering 979 rooms with views of the pool, the 5-star Okada Manila is set in the Paranaque district of Manila, 25 minutes by foot from Cathedral Parish of Saint Andrew.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 141
+----------------------------------------
+Hotel Name: The Manila Hotel
+Star Rating: 5
+Price Range: 138 USD
+Description: Providing access to Rizal Monument, the deluxe 5-star Manila Manila is a 20-minute walk from Fort Santiago and offers an American restaurant.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 229
+----------------------------------------
+Hotel Name: Lime Resort Manila
+Star Rating: 4
+Price Range: 70 USD
+Description: Folk Arts Theatre is set just 0.7 miles from the 4-star Lime Resort Manila.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 33
+----------------------------------------
+Hotel Name: Belmont Hotel Manila
+Star Rating: 4
+Price Range: 74 USD
+Description: Within 18 miles of National Mapping and Resource Information Authority, the 4-star Belmont Hotel Manila offers a swimming pool along with a steam room, a hot tub and sauna facilities on-site.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 292
+----------------------------------------
+Hotel Name: Fairmont Makati
+Star Rating: 5
+Price Range: 141 USD
+Description: Conveniently located 5 minutes by foot from Ayala Museum, the 5-star Fairmont Makati features a hot tub and an outdoor swimming pool.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 151
+----------------------------------------
+Hotel Name: Hotel101 - Manila
+Star Rating: 3
+Price Range: 46 USD
+Description: Situated 5 minutes by foot from SM Mall of Asia, the 3-star 101 - Manila features 518 rooms with private bathrooms.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 255
+----------------------------------------
+Hotel Name: Sofitel Philippine Plaza Manila
+Star Rating: 5
+Price Range: 142 USD
+Description: Located 4 miles from SM Mall of Asia and within 1.4 miles of Malate Catholic Church, the Sofitel Philippine Plaza features a year-round outdoor swimming pool and a sports bar.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 296
+----------------------------------------
+Hotel Name: Grand Hyatt Manila
+Star Rating: 5
+Price Range: 270 USD
+Description: Situated in a commercial area, the 66-story non-smoking Grand Hyatt Manila offers quick access to Ninoy Aquino International airport within 20 minutes' drive.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 76
+----------------------------------------
+Hotel Name: Dusit Thani Manila
+Star Rating: 5
+Price Range: 92 USD
+Description: Set in a shopping area, the luxury Dusit Thani Manila has a swimming pool and 500 rooms only 8 minutes by foot from Ayala Center.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 266
+----------------------------------------
+Hotel Name: Sheraton Manila Hotel
+Star Rating: 5
+Price Range: 183 USD
+Description: Located about a 9-minute walk from Philippine Air Force Aerospace Museum in the Pasay district of Manila, the charming 5-star Sheraton features various recreational opportunities and entertainment activities on-site.
+Location: Manila, Philippines
+Rating Value: 8.4
+Rating Count: 40
+----------------------------------------
+Hotel Name: Diamond Hotel Philippines
+Star Rating: 5
+Price Range: 100 USD
+Description: The deluxe 5-star Diamond Hotel Philippines Manila boasts a hot tub and an outdoor swimming pool, while Malate Catholic Church is situated 0.3 miles away.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 92
+----------------------------------------
+Hotel Name: Kabayan Hotel Pasay
+Star Rating: 3
+Price Range: 42 USD
+Description: The 3-star Kabayan Hotel Pasay Manila features massage therapy and various recreational opportunities, and is situated in the Pasay district of Manila, near a metro station.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 228
+----------------------------------------
+Hotel Name: The Peninsula Manila
+Star Rating: 5
+Price Range: 184 USD
+Description: Featuring an outdoor pool, the 5-star Peninsula Manila is set approximately a 5-minute walk from Urdaneta and Greenbelt Mall.
+Location: Manila, Philippines
+Rating Value: 8.4
+Rating Count: 241
+----------------------------------------
+Hotel Name: Hilton Manila
+Star Rating: 4
+Price Range: 165 USD
+Description: Located in a commercial area about 2.2 miles from Oakley Greenbelt 3 Sunglasses Store, the luxury Hilton Manila is built in a typical eclectic style and has a swimming pool.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 127
+----------------------------------------
+Hotel Name: Solaire Resort Entertainment City
+Star Rating: 5
+Price Range: 195 USD
+Description: Located in the Paranaque district and 10 minutes' drive from Star City Amusement Park, the stunning Solaire Resort Entertainment City features 793 rooms plus a swimming pool.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 64
+----------------------------------------
+Hotel Name: Kingsford Hotel Manila
+Star Rating: 4
+Price Range: 72 USD
+Description: Located within approximately a 14-minute stroll from Solaire Casino, the Kingsford Hotel features an Asian restaurant and American breakfast.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 124
+----------------------------------------
+Hotel Name: Sheraton Manila Bay
+Star Rating: 5
+Price Range: 139 USD
+Description: Featuring a swimming pool along with a Jacuzzi and an outdoor swimming pool on site, the comfortable 5-star Sheraton Manila Bay is nestled in the historic Malate district.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 89
+----------------------------------------
+Hotel Name: New Coast Hotel Manila
+Star Rating: 5
+Price Range: 105 USD
+Description: Offering entertainment activities and loungers onsite, along with a Chinese restaurant, the 5-star modern New Coast Hotel Manila boasts a setting in a business district.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 149
+----------------------------------------
+Hotel Name: Discovery Primea
+Star Rating: None
+Price Range: 139 USD
+Description: The luxurious Discovery Primea Manila is situated near the shopping district of Manila, around 5 minutes' walk from Glorietta 4 Park and offers yoga classes, massage therapy and various recreational opportunities.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 159
+----------------------------------------
+Hotel Name: City Garden Grand Hotel
+Star Rating: 5
+Price Range: 112 USD
+Description: Offering a swimming pool together with 218 rooms, the upscale City Garden Grand Manila is positioned near a metro station.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 246
+----------------------------------------
+Hotel Name: The Bellevue Manila
+Star Rating: 5
+Price Range: 78 USD
+Description: Offering a gift store and a restaurant, the modern Bellevue lies in the Alabang district of Manila, a 20-minute walk from Starmall Alabang and 0.8 miles from Chopstop.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 72
+----------------------------------------
+Hotel Name: Bayview Park Hotel Manila
+Star Rating: 3
+Price Range: 47 USD
+Description: Featuring an outdoor pool and views of the sea, the 3-star modern Bayview Park Hotel offers guests to enjoy Asian dishes.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 172
+----------------------------------------
+Hotel Name: Hotel H2O
+Star Rating: 4
+Price Range: 75 USD
+Description: Set 0.9 miles from Chinese Garden Pond, the 4-star family-friendly H2O features an outdoor swimming pool.
+Location: Manila, Philippines
+Rating Value: 8.4
+Rating Count: 417
+----------------------------------------
+Hotel Name: Privato Ortigas
+Star Rating: 3
+Price Range: 35 USD
+Description: Set 7 minutes by foot from Ace Water Spa, the Privato Ortigas - Multiple Use Manila features an à la carte restaurant serving international cuisine.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 73
+----------------------------------------
+Hotel Name: The Mini Suites Eton Tower Makati
+Star Rating: 3
+Price Range: 39 USD
+Description: There are rooms facing city and the smoke free Mini Suites Eton Tower Makati is set within 0.4 miles of Washington SyCip Park.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 247
+----------------------------------------
+Hotel Name: Shangri-La The Fort, Manila
+Star Rating: 5
+Price Range: 147 USD
+Description: The 62-story Shangri-La The Fort, Manila features an outdoor pool and views of the garden, and is located approximately 1.7 miles from Ace Water Spa.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 67
+----------------------------------------
+Hotel Name: Seda Vertis North
+Star Rating: 5
+Price Range: 111 USD
+Description: Located 20 minutes by foot from SM City North EDSA, the exquisite Seda Vertis North Manila features an outdoor swimming pool and a Misto restaurant.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 41
+----------------------------------------
+Hotel Name: Valero Grand Suites By Swiss-Belhotel
+Star Rating: 4
+Price Range: 59 USD
+Description: The Valero Grand Suites By Swiss-Belhotel is an unique 4-star property set within 0.6 miles of Ayala Triangle Gardens and 0.8 miles from Ayala Center.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 72
+----------------------------------------
+Hotel Name: Hotel Okura Manila - Staycation Approved
+Star Rating: 5
+Price Range: 242 USD
+Description: 3.4 miles from Star City, the 5-star Okura Manila - Staycation Approved includes 187 rooms.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 24
+----------------------------------------
+Hotel Name: Aruga Apartments By Rockwell Makati
+Star Rating: None
+Price Range: 115 USD
+Description: Offering a swimming pool, fitness classes, spa therapy and entertainment activities, the 5-star modern Aruga Apartments By Rockwell Makati Manila is located 1.5 miles from Greenfield District.
+Location: Manila, Philippines
+Rating Value: 8.6
+Rating Count: 77
+----------------------------------------
+Hotel Name: Marco Polo Ortigas Manila
+Star Rating: 5
+Price Range: 103 USD
+Description: Positioned near a subway station in a business area, the 45-story luxury Marco Polo Ortigas Manila invites you to enjoy a steam room, a Jacuzzi and sauna facilities onsite.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 128
+----------------------------------------
+Hotel Name: Luxent Hotel
+Star Rating: 4
+Price Range: 77 USD
+Description: You can take a dip in a swimming pool at the 4-star Luxent, located in the heart of Manila.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 82
+----------------------------------------
+Hotel Name: Holiday Inn Express Manila Newport City, An Ihg Hotel
+Star Rating: 3
+Price Range: 68 USD
+Description: The comfortable Holiday Inn Express Manila Newport City, An Ihg features entertainment activities and various recreational opportunities, and is situated in a business district, near a train station.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 421
+----------------------------------------
+Hotel Name: Red Planet Manila Bay
+Star Rating: 3
+Price Range: 25 USD
+Description: Boasting various recreational opportunities and entertainment activities, the 3-star Red Planet Manila Bay Manila is 25 minutes by foot from Minor Basilica of the Black Nazarene in the Manila Bay district of Manila.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 147
+----------------------------------------
+Hotel Name: Century Park Hotel
+Star Rating: 4
+Price Range: 66 USD
+Description: Placed 0.5 miles from Ninoy Aquino International airport, the 4-star Century Park Manila welcomes guests with a store and a lobby area.
+Location: Manila, Philippines
+Rating Value: 7.8
+Rating Count: 80
+----------------------------------------
+Hotel Name: City Garden Suites
+Star Rating: 3
+Price Range: 53 USD
+Description: There is an à la carte restaurant available in the 3-star historical City Garden Suites, which is set in the Ermita district.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 232
+----------------------------------------
+Hotel Name: Makati Palace Hotel
+Star Rating: 4
+Price Range: 40 USD
+Description: Conveniently set 0.9 miles from The Landmark Department Store, the Makati Palace Manila in the entertainment district of Manila offers fitness classes, massage therapy and entertainment activities.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 72
+----------------------------------------
+Hotel Name: Azumi Boutique Hotel
+Star Rating: 4
+Price Range: 55 USD
+Description: Located 10 minutes by foot from Chopstop in the Alabang district, the comfortable Azumi Boutique Hotel, Multiple Use Hotel Staycation Approved Manila features 130 rooms along with spa therapy and entertainment activities.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 109
+----------------------------------------
+Hotel Name: St Giles Hotel Makati
+Star Rating: 3
+Price Range: 41 USD
+Description: Strategically set in the central district of Manila, the impressive St Giles Hotel Makati Manila serves Asian dishes and features an outdoor pool.
+Location: Manila, Philippines
+Rating Value: 8.4
+Rating Count: 221
+----------------------------------------
+Hotel Name: Crowne Plaza Manila Galleria, An Ihg Hotel
+Star Rating: 5
+Price Range: 87 USD
+Description: Overlooking the city, the business Crowne Plaza Manila Galleria, An Ihg is based in the business Quezon City district and offers an outdoor swimming pool and locker rooms plus an Asian restaurant.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 122
+----------------------------------------
+Hotel Name: Tryp By Wyndham Mall Of Asia Manila
+Star Rating: 3
+Price Range: 99 USD
+Description: Boasting a swimming pool, the Tryp By Wyndham Mall Of Asia Manila is around 1.5 miles from The Blue Leaf Filipinas Event Venue.
+Location: Manila, Philippines
+Rating Value: 8.4
+Rating Count: 116
+----------------------------------------
+Hotel Name: Manila Lotus Hotel
+Star Rating: 3
+Price Range: 35 USD
+Description: Featuring a continental breakfast and a sports complex, the Lotus is located around 20 minutes' stroll from Casa Manila.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 352
+----------------------------------------
+Hotel Name: Red Hotel Cubao, Quezon City
+Star Rating: 3
+Price Range: 39 USD
+Description: Boasting fitness classes and entertainment activities, the 3-star Red Hotel Cubao, Quezon City Manila is 0.8 miles from The Immaculate Conception Cathedral of Cubao in the Quezon City district of Manila.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 92
+----------------------------------------
+Hotel Name: Holiday Inn Manila Galleria, An Ihg Hotel
+Star Rating: 4
+Price Range: 55 USD
+Description: The 4-star Holiday Inn Manila Galleria, An Ihg Manila is nestled in the very heart of the central Quezon City district, 21 minutes' drive from Ninoy Aquino International airport.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 135
+----------------------------------------
+Hotel Name: Midas Hotel And Casino
+Star Rating: 4
+Price Range: 96 USD
+Description: Featuring fitness classes and entertainment facilities, the wonderful 4-star Midas Hotel And Casino is around 1.6 miles from Rizal Memorial Sports Complex as well as near a subway station.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 67
+----------------------------------------
+Hotel Name: Novotel Manila Araneta City Hotel
+Star Rating: 4
+Price Range: 90 USD
+Description: Set in a leisure neighbourhood, the 4-star Novotel Manila Araneta City Manila features fitness classes, facials and massage therapy.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 78
+----------------------------------------
+Hotel Name: Manila Prince Hotel
+Star Rating: 4
+Price Range: 29 USD
+Description: Featuring a location in a business area, the 4-star Prince Manila boasts 179 rooms and an à la carte restaurant, 0.6 miles from Rizal Park.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 129
+----------------------------------------
+Hotel Name: Eurotel Pedro Gil
+Star Rating: 3
+Price Range: 27 USD
+Description: The functional Eurotel Pedro Gil Manila is settled in the Malate district, about 1.4 miles from National Museum of Anthropology, and includes a lounge bar.
+Location: Manila, Philippines
+Rating Value: 7.8
+Rating Count: 52
+----------------------------------------
+Hotel Name: Citadines Bay City Manila
+Star Rating: None
+Price Range: 80 USD
+Description: The 4-star Citadines Bay City has an à la carte restaurant and a swimming pool, located in the very heart of Manila.
+Location: Manila, Philippines
+Rating Value: 8.4
+Rating Count: 119
+----------------------------------------
+Hotel Name: Seda Bonifacio Global City
+Star Rating: 4
+Price Range: 139 USD
+Description: Offering a shopping arcade and a restaurant, the comfortable 4-star Seda Bonifacio Global City lies in the Fort Bonifacio district of Manila, just 6 minutes by foot from The Mind Museum and within 0.3 miles of KidZania Taguig Recreation Center.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 69
+----------------------------------------
+Hotel Name: Go Hotels Plus Mandaluyong
+Star Rating: 3
+Price Range: 30 USD
+Description: Located near a subway station and 13 minutes by foot from SM Light Mall, the cozy 3-star Go Hotels Mandaluyong offers massage therapy and entertainment activities.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 47
+----------------------------------------
+Hotel Name: Summit Hotel Magnolia
+Star Rating: 3
+Price Range: 54 USD
+Description: Museo Ng Katipunan and National Museum of the Philippines are located 1.6 miles and 4.2 miles from the 3-star Summit Hotel Magnolia respectively.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 53
+----------------------------------------
+Hotel Name: Jinjiang Inn - Ortigas
+Star Rating: 3
+Price Range: 34 USD
+Description: Located within 600 feet of Lopez Museum and Library and 0.5 miles from Megatrade Hall, the 3-star Jinjiang Inn - Ortigas Manila features entertainment activities and various recreational opportunities.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 56
+----------------------------------------
+Hotel Name: Savoy Hotel Manila
+Star Rating: 4
+Price Range: 68 USD
+Description: Set merely 0.9 miles from Shrine of Saint Therese of the Child Jesus, the Savoy Hotel Manila offers 1079 rooms and the outdoor swimming pool.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 235
+----------------------------------------
+Hotel Name: Selah Pods Hotel Manila
+Star Rating: 3
+Price Range: 26 USD
+Description: Offering 107 rooms with views of the city, the 3-star Selah Pods Hotel Manila is set in the Pasay district of Manila, 10 minutes' drive from Ayala Triangle Gardens.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 146
+----------------------------------------
+Hotel Name: Astoria Plaza
+Star Rating: 4
+Price Range: 70 USD
+Description: Boasting a year-round outdoor swimming pool, the 4-star Astoria Plaza Manila offers a prime location about 8 minutes' stroll from Ace Water Spa.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 124
+----------------------------------------
+Hotel Name: Eurotel Makati
+Star Rating: 3
+Price Range: 23 USD
+Description: Thanks to its central location, the 3-star Eurotel Makati Manila is approximately 9 minutes' stroll from Greenbelt Mall and there is a subway station near the 3-star Eurotel Makati Manila.
+Location: Manila, Philippines
+Rating Value: 7.2
+Rating Count: 65
+----------------------------------------
+Hotel Name: Intercontinental Manila
+Star Rating: 5
+Price Range: 118 USD
+Description: Boasting the outdoor swimming pool along with steam baths and an outdoor swimming pool, the elegant Intercontinental Manila is placed in the entertainment district of Manila less than 7 minutes by foot from Ayala Center.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 112
+----------------------------------------
+Hotel Name: Ramada Encore By Wyndham Makati
+Star Rating: 4
+Price Range: 62 USD
+Description: Set approximately 1.5 miles from Bangkal, the world-class Ramada Encore By Wyndham Makati Makati City lies in the business district of Makati City.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 133
+----------------------------------------
+Hotel Name: Red Planet Manila Aseana City
+Star Rating: 3
+Price Range: 36 USD
+Description: Situated in the Paranaque district of Manila, the non-smoking Red Planet Manila Aseana offers entertainment activities and various recreational opportunities.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 283
+----------------------------------------
+Hotel Name: Manila Manor Hotel
+Star Rating: 3
+Price Range: 25 USD
+Description: Located in the Malate district of Manila near a subway station, the smoke-free Manor features local dishes available.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 91
+----------------------------------------
+Hotel Name: The Henry Hotel Manila
+Star Rating: 4
+Price Range: 106 USD
+Description: Offering an outdoor pool, the 4-star Henry Hotel Manila is 10 minutes by foot from Two Shopping Center.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 111
+----------------------------------------
+Hotel Name: Hotel Lucky Chinatown
+Star Rating: 3
+Price Range: 55 USD
+Description: Fitness classes and entertainment activities plus American dishes are available at the 3-star Lucky Chinatown, set in the Binondo district of Manila.
+Location: Manila, Philippines
+Rating Value: 7.8
+Rating Count: 23
+----------------------------------------
+Hotel Name: Winford Resort And Casino Manila
+Star Rating: 5
+Price Range: 84 USD
+Description: Situated in the old district of Manila near a train station, the 5-star luxury Winford Resort And Casino boasts the outdoor swimming pool and 128 rooms.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 21
+----------------------------------------
+Hotel Name: The B Hotel Alabang
+Star Rating: 3
+Price Range: 64 USD
+Description: Chopstop and Molito Lifestyle Center are located 0.8 miles and 0.6 miles from the B Hotel Alabang Manila respectively.
+Location: Manila, Philippines
+Rating Value: 8.4
+Rating Count: 63
+----------------------------------------
+Hotel Name: Go Hotels Manila Airport Road
+Star Rating: 3
+Price Range: 32 USD
+Description: Offering 199 rooms with views of the city, the modern Go Hotels Manila Airport Road is set in the Paranaque district of Manila, within a 10-minute drive of Star City.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 144
+----------------------------------------
+Hotel Name: Raffles Makati
+Star Rating: 5
+Price Range: 237 USD
+Description: Perfectly set 0.3 miles from Ayala Museum, the 5-star Raffles Makati in a vibrant neighbourhood offers spa therapy and entertainment activities.
+Location: Manila, Philippines
+Rating Value: 8.6
+Rating Count: 33
+----------------------------------------
+Hotel Name: Bsa Twin Tower
+Star Rating: 4
+Price Range: 54 USD
+Description: The family Bsa Twin Tower is situated in the very heart of Manila, less than 14 minutes' stroll from Greenfield District.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 156
+----------------------------------------
+Hotel Name: Red Planet Manila Malate Mabini
+Star Rating: 3
+Price Range: 31 USD
+Description: Featuring 146 rooms, entertainment activities and various recreational opportunities, the Red Planet Manila Malate Mabini is about a 25-minute walk from Manila City Hall in Manila.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 250
+----------------------------------------
+Hotel Name: Eastwood Richmonde Hotel - Newly Renovated
+Star Rating: 4
+Price Range: 101 USD
+Description: The 4-star Eastwood Richmonde Hotel - Newly Renovated is situated in the heart of Manila, within minutes of San Roque Parish Church.
+Location: Manila, Philippines
+Rating Value: 8.4
+Rating Count: 50
+----------------------------------------
+Hotel Name: Hop Inn Hotel Aseana City Manila
+Star Rating: 3
+Price Range: 37 USD
+Description: While staying at the 3-star Hop Inn Hotel Aseana City Manila you are invited to discover Star City, set 2 miles away, or SM Mall of Asia, which is a mere 0.7 miles away.
+Location: Manila, Philippines
+Rating Value: 8.4
+Rating Count: 152
+----------------------------------------
+Hotel Name: Go Hotels Ermita, Manila
+Star Rating: 3
+Price Range: 32 USD
+Description: Located just 500 feet from Tesoro's and within 25 minutes' walk of Fort Santiago, the Go Hotels Ermita, Manila features massage therapy, entertainment activities and various recreational opportunities.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 105
+----------------------------------------
+Hotel Name: Hop Inn Hotel Alabang Manila
+Star Rating: 3
+Price Range: 25 USD
+Description: The affordable Hop Inn Hotel Alabang Manila enjoys a comfortable location and provides easy access to Chopstop within an 11-minute walk.
+Location: Manila, Philippines
+Rating Value: 8.4
+Rating Count: 64
+----------------------------------------
+Hotel Name: Best Western Hotel La Corona Manila
+Star Rating: 3
+Price Range: 25 USD
+Description: The Best Western Hotel La Corona is situated in the Manila Bay district, 16 minutes' drive from Ninoy Aquino International airport.
+Location: Manila, Philippines
+Rating Value: 8.6
+Rating Count: 375
+----------------------------------------
+Hotel Name: Copacabana Apartment Hotel - Staycation Is Allowed
+Star Rating: None
+Price Range: 47 USD
+Description: Located in the Pasay district of Manila approximately 10 minutes' drive from SM Mall of Asia, the delightful 3-star Copacabana Apartment Hotel - Staycation Is Allowed has 134 rooms and an outdoor pool.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 281
+----------------------------------------
+Hotel Name: New York Hotel Miami
+Star Rating: 3
+Price Range: 11 USD
+Description: Quezon Memorial Circle is 10 minutes' drive from the New York Hotel Miami, while Monasterio Real ​de Sta. Clara de Manila is around 1.8 miles away.
+Location: Manila, Philippines
+Rating Value: 8.4
+Rating Count: 18
+----------------------------------------
+Hotel Name: Alicia Apartment
+Star Rating: 3
+Price Range: 29 USD
+Description: The 3-star Alicia Manila is set 2 miles from DreamPlay Theme Park and 25 minutes' stroll from Entertainment City Amusement Center.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 278
+----------------------------------------
+Hotel Name: Myspace Hotel @Bgc
+Star Rating: 3
+Price Range: 33 USD
+Description: Set in a shopping neighbourhood, the 3-star Myspace Hotel @Bgc features entertainment activities and various recreational opportunities.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 54
+----------------------------------------
+Hotel Name: The Exchange Regency Residence Hotel Managed By Hii
+Star Rating: None
+Price Range: 77 USD
+Description: The family-friendly Exchange Regency Residence Hotel Managed By Hii Manila is situated near the shopping district of Manila within 8 minutes' walk of Capitol Commons.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 57
+----------------------------------------
+Hotel Name: Greenhills Elan Hotel Modern
+Star Rating: 4
+Price Range: 44 USD
+Description: Offering an outdoor swimming pool, the 4-star Greenhills Elan Hotel Modern boasts a location 0.4 miles from Greenhills Shopping Center.
+Location: Manila, Philippines
+Rating Value: 8.6
+Rating Count: 19
+----------------------------------------
+Hotel Name: The Malayan Plaza Hotel
+Star Rating: None
+Price Range: 81 USD
+Description: Located 6 minutes by foot from NBI Clearance Center, the 40-story smoke-free Malayan Plaza Manila features a swimming pool and a fitness center.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 60
+----------------------------------------
+Hotel Name: Eurotel North Edsa
+Star Rating: 3
+Price Range: 34 USD
+Description: Set within a 5-minute drive of Quezon Heritage House, the comfortable Eurotel North Edsa features 136 rooms with private bathrooms.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 57
+----------------------------------------
+Hotel Name: Guijo Suites Makati - Quarantine Hotel
+Star Rating: 3
+Price Range: 30 USD
+Description: The 3-star Guijo Suites Makati - Quarantine Manila is situated in the central Makati district, 20 minutes' drive from Ninoy Aquino International airport.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 332
+----------------------------------------
+Hotel Name: Go Hotels Ortigas Center
+Star Rating: 3
+Price Range: 34 USD
+Description: Featuring various recreational opportunities and entertainment activities, the 3-star Go Hotels Ortigas Center Manila is within 0.7 miles of SM Megamall as well as near a subway station.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 63
+----------------------------------------
+Hotel Name: Y2 Residence Hotel Managed By Hii
+Star Rating: 3
+Price Range: 44 USD
+Description: Featuring a swimming pool, the 3-star smoke-free Y2 Residence Hotel Managed By Hii Manila in the Makati district boasts 196 rooms.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 119
+----------------------------------------
+Hotel Name: Crown Regency Hotel Makati
+Star Rating: 3
+Price Range: 51 USD
+Description: Centrally set within 1.1 miles of GT International Tower, the Crown Regency Hotel Makati Manila in a business district offers fitness classes and entertainment activities.
+Location: Manila, Philippines
+Rating Value: 7.4
+Rating Count: 70
+----------------------------------------
+Hotel Name: Astoria Greenbelt
+Star Rating: 3
+Price Range: 70 USD
+Description: Located in the central Makati district near a subway station, the 3-star Astoria Greenbelt Manila features Asian dishes available.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 76
+----------------------------------------
+Hotel Name: I'M Hotel
+Star Rating: 5
+Price Range: 94 USD
+Description: Located in the Makati district and a mere 9 minutes' walk from the 2-hectare landscaped urban park "Ayala Triangle Gardens", the perfect I'M Manila features fitness classes and massage therapy.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 212
+----------------------------------------
+Hotel Name: Citadines Salcedo Makati
+Star Rating: None
+Price Range: 83 USD
+Description: Located 6 minutes' walk from St. George Greek Orthodox Chapel and a mere 6 minutes' stroll from Glorietta, the 4-star smoke free Citadines Salcedo Makati Manila features fitness classes and entertainment activities.
+Location: Manila, Philippines
+Rating Value: 8.4
+Rating Count: 109
+----------------------------------------
+Hotel Name: Red Planet Cubao Aurora Boulevard
+Star Rating: 3
+Price Range: 34 USD
+Description: Located approximately 10 minutes' drive from UP Sunken Garden, the affordable Red Planet Cubao Aurora Boulevard features entertainment activities and various recreational opportunities for guests' convenience.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 76
+----------------------------------------
+Hotel Name: Achievers Airport Hotel
+Star Rating: 2
+Price Range: 38 USD
+Description: The smoke free Achievers Airport Manila is set about 1.5 miles from SM MOA Eye and within 1.9 miles of GSIS Museo ng Sining.
+Location: Manila, Philippines
+Rating Value: 8.4
+Rating Count: 226
+----------------------------------------
+Hotel Name: The Bayleaf Intramuros
+Star Rating: 4
+Price Range: 57 USD
+Description: Set near a metro station in the Intramuros district, the 4-star boutique Bayleaf Intramuros includes 63 rooms as well as massage therapy and entertainment activities.
+Location: Manila, Philippines
+Rating Value: 8.4
+Rating Count: 253
+----------------------------------------
+Hotel Name: Red Planet Manila Binondo
+Star Rating: 3
+Price Range: 31 USD
+Description: Set in a business district, the 3-star non-smoking Red Planet Manila Binondo features various recreational opportunities and entertainment activities.
+Location: Manila, Philippines
+Rating Value: 8.4
+Rating Count: 133
+----------------------------------------
+Hotel Name: Citadines Millennium Ortigas Manila
+Star Rating: None
+Price Range: 78 USD
+Description: Set a mere 5 minutes by foot from Robinsons Galleria, the comfortable 4-star Citadines Millennium Ortigas offers an outdoor pool together with fitness classes and entertainment activities for guest enjoyment.
+Location: Manila, Philippines
+Rating Value: 7.8
+Rating Count: 47
+----------------------------------------
+Hotel Name: The Charter House
+Star Rating: 2
+Price Range: 48 USD
+Description: Located within 0.8 miles of GT International Tower, the Charter House features massage therapy and entertainment activities for guests' convenience.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 43
+----------------------------------------
+Hotel Name: Jinjiang Inn - Makati
+Star Rating: 3
+Price Range: 50 USD
+Description: Situated in the very heart of the central Makati district, the 3-star Jinjiang Inn - Makati Manila is 15 minutes' drive from Ninoy Aquino International airport.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 67
+----------------------------------------
+Hotel Name: Summit Hotel Greenhills
+Star Rating: 3
+Price Range: 58 USD
+Description: Located in a shopping area and 1.5 miles from Eastwood City, the smoke-free Summit Hotel Greenhills Manila features 100 rooms plus a swimming pool.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 37
+----------------------------------------
+Hotel Name: Fersal Hotel - Manila
+Star Rating: 3
+Price Range: 22 USD
+Description: Located near a subway station and within 1 miles of Minor Basilica of the Black Nazarene, the Fersal Hotel - offers spa therapy and entertainment activities.
+Location: Manila, Philippines
+Rating Value: 8.0
+Rating Count: 30
+----------------------------------------
+Hotel Name: Crimson Hotel Filinvest City, Manila
+Star Rating: 5
+Price Range: 53 USD
+Description: The business Crimson Hotel Filinvest City, Manila is set within 1.2 miles of Chopstop and just 5 minutes by foot from X-Site.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 125
+----------------------------------------
+Hotel Name: Stone House Hotel Pasay
+Star Rating: 2
+Price Range: 17 USD
+Description: Located within 1.4 miles of Baclaran Church, the comfortable Stone House Hotel Pasay features an a roof garden garden.
+Location: Manila, Philippines
+Rating Value: 8.2
+Rating Count: 140
+----------------------------------------
