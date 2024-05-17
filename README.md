@@ -49,3 +49,24 @@ Mes categories : name, stars, price, description, city, country, ratingValue, r
 Pourquoi ? Car le corpus de référence ont utilisé booking.com, et j’ai utilisé booked.net. Les informations sur 2 sites se diffèrent.
 
 Aussi j'ai rédigé LICENSE selon le modèle trouvé sur Internet.
+
+
+# Etape 3. Création de datasets.
+
+J’ai lancé un petit code nommé create_datasets.ipynb sur Notebook :
+
+```
+import pandas as pd
+df = pd.read_csv('hotels_data.csv')
+from datasets import Dataset
+dataset = Dataset.from_pandas(df)
+output_directory = "/home/miya/Downloads/"
+dataset.save_to_disk(output_directory)
+```
+
+Comme résultat, j’ai obtenu 3 fichiers :
+state.json
+dataset_info.json
+data-00000-of-00001.arrow
+
+Je les ai sauvegardés dans un dossier src.

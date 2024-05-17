@@ -1,0 +1,40 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "stars": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "price": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "description": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "city": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "country": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "ratingValue": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "ratingCount": {
+      "dtype": "float64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
