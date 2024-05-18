@@ -28,6 +28,7 @@ Dossiers qui seront sur mon repo :
 	* tranform_to_table.py
 	* xlsx_to_csv.py
 	* create_datasets.ipynb
+	* evaluation.py
 * data
 	* corpus brut
 	* corpus nettoyé
@@ -91,7 +92,7 @@ Carte de mon corpus:
 * Modalité : ecrit
 * Licence : CC BY-NC-SA (Attribution-NonCommercial-ShareAlike)
 
-# Etape 4. Installer et essayer Docker
+# Etape 4. Installer et essayer Docker.
 
 J’ai installé docker avoir lancé ces commandes :
 
@@ -147,5 +148,42 @@ Conclusion 2: Sans sudo les commandes ne marchent pas, il faut être superuser. 
 
 Conclusion 3: Docker c'est pas facile.
 
+# Etape 5. Script pour évaluer, mesurer, faire une métrique.
 
+Le script evaluation.py est dans le dossier ‘scripts’, le output est dans le dossier ‘figures’.
+
+Ce script a pris une éternité a accomplir. J’ai reçu bcp d’erreurs et tous que j’ai fait comme ‘pré-traitement’ était fait comme la résolution pourquoi je vois ‘TypeError: unsupported operand type(s) for +: 'float' and 'str' ou ‘ValueError: array must not contain infs or NaNs’ ou ‘TypeError: ufunc 'isinf' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''.
+
+## Pré-traitement
+ J'ai commencé par charger les données depuis un fichier hotels_data.xlsx. Ensuite, j'ai nettoyé les données en supprimant la devise "USD" de la colonne des prix et en convertissant ces valeurs en type numérique (float). J'ai également supprimé les lignes contenant des valeurs manquantes (NaN) pour éviter des erreurs dans les analyses.
+
+## Corrélation
+Je voudrais comprendre la relation entre les prix des chambres d'hôtel et les notes attribuées par les clients. Pour déterminer si une relation significative existe entre cles prix et les notes, j'ai mesuré la corrélation entre ces deux variables en utilisant la fonction pearsonr de la bibliothèque scipy (vues en cours).
+
+## Éliminez les données aberrantes
+Je souviens qu’il faut éliminer les valeurs aberrantes, donc j'ai conservé uniquement les prix dont le score z était compris entre -3 et 3.
+
+## Augmenter
+Afin de renforcer mon jeu de données, j'ai utilisé la méthode de rééchantillonnage pour doubler le nombre de lignes sans valeurs aberrantes.
+
+## Test et train
+J'ai divisé les données augmentées en deux ensembles : un ensemble d'entraînement et un ensemble de test. J'ai utilisé la fonction train_test_split avec un ratio de 80% pour l'entraînement et 20% pour le test.
+
+## Evaluation
+Pour évaluer mes données, j'ai généré des prédictions d'exemple en ajoutant une petite perturbation normale aux notes réelles des clients. J'ai ensuite calculé l'erreur absolue moyenne (MAE) et l'erreur quadratique moyenne (MSE) entre les valeurs réelles et les prédictions.
+
+## Nouvelle metrique
+Enfin, j'ai proposé une nouvelle métrique appelée "value_for_money" (rapport qualité-prix). Cette métrique est le rapport entre la note des clients et le prix de la chambre. Elle permet de comparer la satisfaction des clients par rapport au coût de leur séjour.
+
+## Interprétations des résultats
+
+Bien, le coefficient de corrélation entre les colonnes 'price' (prix) et 'ratingValue' (note) est d'environ 0,134. C’est une corrélation positive faible, donc quand le prix des hôtels augmente, il y a tendance à ce que les notes augmentent légèrement également.
+
+La valeur p associée à ce coefficient de corrélation est d'environ 0,003. Cela suggère que la corrélation est statistiquement significative, ce qui signifie qu'il est peu probable qu'elle se soit produite par hasard.
+
+Erreur absolue moyenne (MAE) est d'environ 0,084. Il mesure la différence absolue moyenne entre les valeurs prédites et réelles. Erreur quadratique moyenne (MSE) est 0,011. Le MSE montre la moyenne des carrés des erreurs.
+
+La colonne 'value_for_money' représente une mesure de la valeur perçue pour l'argent de chaque hôtel. On peux l’obtenir en divisant la note par le prix. Des valeurs plus élevées indiquent une meilleure valeur perçue pour l'argent.
+
+Bonne nouvelle ! Je peux voir quels hôtels pourraient offrir meilleur rapport qualité-prix. Et je vais l’utiliser cet info pour planifier les vacances. :)
 

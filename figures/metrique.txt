@@ -1,0 +1,492 @@
+Correlation: 0.13353297631000666, P-value: 0.0031523645579715257
+
+MAE: 0.08429215021229156, MSE: 0.01133288816531259
+
+                                                                                            name  value_for_money
+                                                                                      Ritz Paris         0.003531
+                                                               Four Seasons Hotel George V Paris         0.003892
+                                                                      The Westin Paris - Vendome         0.014801
+                                                                       Pullman Paris Tour Eiffel         0.019134
+                                                     Hotel Plaza Athenee - Dorchester Collection         0.005166
+                                                                             Hotel Regina Louvre         0.010832
+                                                                               The Hoxton, Paris         0.015299
+                                                                                Relais Christine         0.019672
+                                                                      Pullman Paris Montparnasse         0.029054
+                                                                                Hotel De Crillon         0.003916
+                                                              Le Meurice - Dorchester Collection         0.005354
+                                                                                  Hotel West-End         0.019178
+                                                                   Le Pavillon De La Reine & Spa         0.010153
+                                                                     Grand Hotel Du Palais Royal         0.043979
+                                                                        Novotel Paris Les Halles         0.029553
+                                                                      Hyatt Regency Paris Etoile         0.023118
+                                                                              Grand Powers Hotel         0.009255
+                                                                              Le Meridien Etoile         0.031461
+                                                                         Hotel Du Collectionneur         0.012000
+                                                                                         L'Hotel         0.017427
+                                                   Intercontinental Paris Le Grand, An Ihg Hotel         0.027152
+                                             Hotel Du Louvre, In The Unbound Collection By Hyatt         0.013659
+                                                                                   Hotel Lutetia         0.004390
+                                                                                 Hotel San Regis         0.008203
+                                                                               Hotel La Comtesse         0.046328
+                                                               Hotel Brighton - Esprit De France         0.020339
+                                                                                   Hotel Bel Ami         0.026582
+                                                                          Hotel Pont Royal Paris         0.021080
+                                                                           Hyatt Paris Madeleine         0.015027
+                                                                Mercure Paris Centre Tour Eiffel         0.040976
+                                                                                Hotel D'Aubusson         0.020525
+                                                                       Sofitel Paris Le Faubourg         0.007225
+                                                                   Sofitel Le Scribe Paris Opera         0.014973
+                                                                  Hotel Le Walt By Inwood Hotels         0.054305
+                                                                        Mandarin Oriental, Paris         0.005388
+                                                                Novotel Paris Centre Tour Eiffel         0.043077
+                                                                                   Hotel Raphael         0.012883
+                                                                                      Cler Hotel         0.020192
+                                                                                   Hotel Madison         0.037500
+                                                             Paris Marriott Champs Elysees Hotel         0.010832
+                                                                           Hotel Duquesne Eiffel         0.046667
+                                                          Castille Paris - Starhotels Collezione         0.016872
+                                                                            Hotel Napoleon Paris         0.013376
+                                                     Crowne Plaza Paris Republique, An Ihg Hotel         0.062222
+                                                                                   Elysees Union         0.043850
+                                                                               Le Narcisse Blanc         0.009297
+                                                                           Les Jardins Du Marais         0.024852
+                                                                                 Splendid Etoile         0.020192
+                                                                               Hotel De L'Abbaye         0.028289
+                                                                           Victoria Palace Hotel         0.019490
+                                                   Le Bristol Paris - An Oetker Collection Hotel         0.003968
+                                                        Courtyard By Marriott Paris Gare De Lyon         0.036681
+                                                                              Hotel Montalembert         0.016529
+                                                                               Plaza Tour Eiffel         0.023864
+                                                                              Hilton Paris Opera         0.021244
+                                                                Hotel D'Orsay - Esprit De France         0.022338
+                                                                                 Hotel Du Cadran         0.054777
+                                                                             Moxy Paris Bastille         0.026625
+                                                                             Juliana Hotel Paris         0.012934
+                                                                                     Hotel Beige         0.035556
+                                                                           Hotel Les Bains Paris         0.011233
+                                                        Renaissance Paris Republique Hotel & Spa         0.017320
+                                                                                   Hotel De Nell         0.029286
+                                                                              Paris France Hotel         0.075000
+                                                                     Hotel Wallace - Orso Hotels         0.040838
+                                                                                   Le Cinq Codet         0.015830
+                                                                                  Chouchou Hotel         0.016667
+                                                  Maison Astor Paris, Curio Collection By Hilton         0.038679
+                                                                                       Le Littre         0.042857
+                                                                                    Passy Eiffel         0.061765
+                                                                                Shangri-La Paris         0.005765
+                                                           Paris Marriott Opera Ambassador Hotel         0.039070
+                                                       Maison Colbert Member Of Melia Collection         0.039070
+                                                         Kimpton - St Honore Paris, An Ihg Hotel         0.010500
+                                                                   Hotel Elysia By Inwood Hotels         0.011126
+                                                                  Hotel Relais Bosquet By Malone         0.034426
+                                                                                Hotel Providence         0.020197
+                                                           Hotel La Bourdonnais By Inwood Hotels         0.011715
+                                                                             Hotel Adele & Jules         0.026804
+                                                         Renaissance Paris Arc De Triomphe Hotel         0.028669
+                                                                                     Hotel Monge         0.022047
+                                                                            La Demeure Montaigne         0.014894
+                                                                             Melia Paris Vendome         0.023729
+                                                                                    Sinner Paris         0.015527
+                                                          K+K Hotel Cayre Saint Germain Des Pres         0.005221
+                                                               Hotel Vernet Champs Elysees Paris         0.149091
+                                                                                    Hotel Muguet         0.041584
+                                                                               Hotel Westminster         0.019355
+                                                                            Hotel Alfred Sommier         0.022222
+                                                                                   Garden-Elysee         0.053503
+                                                                           Hotel Du Jeu De Paume         0.041791
+                                                                            Esprit Saint Germain         0.018575
+                                                                       Hotel Trianon Rive Gauche         0.066667
+                                                                             Bulgari Hotel Paris         0.003902
+                                                                             Hotel Saint Germain         0.075229
+                                                                   Hotel Left Bank Saint Germain         0.047458
+                                                                                Le Belmont Paris         0.046067
+                                                                                       The Plaza         0.010307
+                                                                                   Stewart Hotel         0.077064
+                                                                       New York Marriott Marquis         0.023955
+                                                                               Arlo Williamsburg         0.027541
+                                                                    Hyatt Grand Central New York         0.042424
+                                                                The Standard, High Line New York         0.025767
+                                                                         Row Nyc At Times Square         0.091304
+                                                            Sheraton New York Times Square Hotel         0.037383
+                                                                                     Wythe Hotel         0.028000
+                                                                          The Peninsula New York         0.011038
+                                                                              The Rockaway Hotel         0.042000
+                                                                                      Arlo Nomad         0.040385
+                                                                                Soho Grand Hotel         0.028383
+                                                                     Yotel New York Times Square         0.051497
+                                                                                The Bowery Hotel         0.016970
+                                                                                   The Ned Nomad         0.013333
+                                                                               The Hotel Chelsea         0.021189
+                                                                                The William Vale         0.024490
+                                                                         New York Hilton Midtown         0.039631
+                                                                           Lotte New York Palace         0.018495
+                                                             The Westin New York At Times Square         0.032669
+                                                          Millennium Hotel Broadway Times Square         0.046486
+                                                               The Westin New York Grand Central         0.034538
+                                                                          The St. Regis New York         0.011111
+                                                                              The Dominick Hotel         0.009756
+                                                        Hampton Inn Manhattan Times Square North         0.068800
+                                                                    Hilton New York Times Square         0.040000
+                                               Hilton Garden Inn New York - Times Square Central         0.037963
+                                                                         1 Hotel Brooklyn Bridge         0.013735
+                                                                            Omni Berkshire Place         0.018584
+                                                                                    Hotel Beacon         0.034818
+                                                                                       Nomo Soho         0.034538
+                                                                        Dream Downtown, By Hyatt         0.016438
+                                                                     Four Seasons Hotel New York         0.011983
+                                                                    The Collective Paper Factory         0.087500
+                                                                       Hotel Edison Times Square         0.059574
+                                                                              Ace Hotel Brooklyn         0.022283
+                                                                       The Hotel At Times Square         0.104878
+                                                                                Pod Times Square         0.048521
+                                                                                    Park Central         0.071667
+                                                                                          Pod 51         0.055629
+                                                                        Conrad New York Downtown         0.014853
+                                                                                The Whitby Hotel         0.007162
+                                                                                    Empire Hotel         0.052830
+                                                                    Millennium Downtown New York         0.033463
+                                                                              The Manhattan Club         0.022047
+                                                                        Hard Rock Hotel New York         0.018142
+                                                                    Paramount Hotel Times Square         0.078505
+                                                                              Ace Hotel New York         0.034677
+                                                                             Roxy Hotel New York         0.018667
+                                                                Jw Marriott Essex House New York         0.013548
+                                                                            The New York Edition         0.006131
+                                                             Hyatt Centric Times Square New York         0.024490
+                                                                         Conrad New York Midtown         0.013110
+                                                                              Park Lane New York         0.018777
+                                                                          Gansevoort Meatpacking         0.015985
+                                                                                 Park West Hotel         0.102500
+                                                                                    Ink 48 Hotel         0.023464
+                                                             The Benjamin Royal Sonesta New York         0.037229
+                                            Intercontinental New York Times Square, An Ihg Hotel         0.041379
+                                                                       Refinery Hotel - New York         0.015560
+                                                                                  The Jane Hotel         0.038356
+                                                                                      The Mercer         0.023596
+                                                                                  Civilian Hotel         0.022047
+                                                                                    Pod Brooklyn         0.049123
+                                                                             The Greenwich Hotel         0.013681
+                                                                         Washington Square Hotel         0.024855
+                                                                      The James New York - Nomad         0.019114
+                                                                    Loews Regency New York Hotel         0.003160
+                                                                       33 Seaport Hotel New York         0.045503
+                                                       The Lexington Hotel, Autograph Collection         0.027986
+                                                                                          Pod 39         0.056376
+                                           Intercontinental New York Barclay Hotel, An Ihg Hotel         0.043077
+                                                           Hotel 50 Bowery, Part Of Jdv By Hyatt         0.033198
+                                                                                        Hotel 57         0.035193
+                                                                 Riu Plaza New York Times Square         0.041624
+                                                             Bklyn House Hotel New York Brooklyn         0.056376
+                                                            M Social Hotel Times Square New York         0.050292
+                                                                                   Hotel Lucerne         0.021608
+                                                                              Hotel Pennsylvania         0.025625
+                                                                              The Kimberly Hotel         0.033205
+                                                              Renaissance New York Chelsea Hotel         0.043386
+                                                                               Bryant Park Hotel         0.027129
+                                                               The Times Square Edition New York         0.006613
+                                                                                        The Time         0.066142
+                                          Holiday Inn Manhattan Financial District, An Ihg Hotel         0.043386
+                                                                         Dream Midtown, By Hyatt         0.054088
+                                                                  Hotel Belleclaire Central Park         0.023562
+                                     Martinique New York On Broadway, Curio Collection By Hilton         0.026380
+                                                                               The Marlton Hotel         0.031660
+                                                  11 Howard, New York, A Member Of Design Hotels         0.038356
+                                                                                  Arthouse Hotel         0.027723
+                                                                                Sofitel New York         0.029577
+                                                        New York Marriott At The Brooklyn Bridge         0.034310
+                                                      Ac Hotel By Marriott New York Times Square         0.041624
+                                                                                   Americana Inn         0.129231
+                                                        Thompson Central Park New York, By Hyatt         0.016206
+                                                                     The Frederick Hotel Tribeca         0.033871
+                                                                       W New York - Times Square         0.035897
+                                                                         Hyatt Place Nyc Chelsea         0.033884
+                                                                          The Puli Hotel And Spa         0.031939
+                                                                     Pudong Shangri-La, Shanghai         0.046667
+                                                                            Grand Hyatt Shanghai         0.051534
+                                                               The Portman Ritz-Carlton Shanghai         0.058741
+                                                           Shanghai Marriott Marquis City Centre         0.058333
+                                                             Shanghai Marriott Hotel Pudong East         0.065152
+                                                                               Hyatt On The Bund         0.057343
+                                                                Fairmont Peace Hotel On The Bund         0.031970
+                                                                             Park Hyatt Shanghai         0.027632
+                                                                          The Peninsula Shanghai         0.022520
+                                                               The Ritz-Carlton Shanghai, Pudong         0.028571
+                                                                The Westin Bund Center, Shanghai         0.051572
+                                                                                 Conrad Shanghai         0.049398
+                                                              Mandarin Oriental Pudong, Shanghai         0.039423
+                                       Andaz Xintiandi Shanghai-Free Minibar & Lounge Happy Hour         0.049123
+                                                                         Pullman Shanghai Skyway         0.061654
+                                                                    Kerry Hotel Pudong, Shanghai         0.065600
+                                                            Renaissance Shanghai Yu Garden Hotel         0.073684
+                                                         Jw Marriott Shanghai At Tomorrow Square         0.046409
+                                                          Courtyard By Marriott Shanghai Central         0.066129
+                                                                Shanghai Marriott Hotel Hongqiao         0.066129
+                      Ramada Plaza Shanghai Pudong Airport - A Journey Starts At The Pvg Airport         0.072414
+                                                           Radisson Blu Hotel Shanghai New World         0.068293
+                                                                        Hilton Shanghai Hongqiao         0.084536
+                                                                The Langham, Shanghai, Xintiandi         0.048555
+                                                                       Hotel Equatorial Shanghai         0.110526
+                                                               Renaissance Shanghai Pudong Hotel         0.078899
+                                                                  Grand Kempinski Hotel Shanghai         0.050588
+                                                             Crowne Plaza Shanghai, An Ihg Hotel         0.083333
+                                                     Radisson Collection Hotel, Yangtze Shanghai         0.096552
+                                                                          Bulgari Hotel Shanghai         0.013465
+                                                           Courtyard By Marriott Shanghai Pudong         0.059854
+                                                    Shanghai Bund South China Harbour View Hotel         0.070796
+                                                                            Jin Jiang Park Hotel         0.098734
+Regent Shanghai Pudong - Complimentary First Round Minibar Per Stay - Including A Bottle Of Wine         0.055484
+                                                  Intercontinental Shanghai Pudong, An Ihg Hotel         0.083495
+                                                                        Hongqiao Jin Jiang Hotel         0.092308
+                                                        Caption By Hyatt Zhongshan Park Shanghai         0.073504
+                                                       Jw Marriott Hotel Shanghai Changfeng Park         0.040201
+                                                                    Grand Central Hotel Shanghai         0.071795
+                                                       Renaissance Shanghai Zhongshan Park Hotel         0.044565
+                                                Intercontinental Shanghai Jing' An, An Ihg Hotel         0.058108
+                                                                Wyndham Shanghai Bund East Hotel         0.042932
+                                                                                The Middle House         0.034599
+                                                                        The Bund Riverside Hotel         0.106494
+                                                             Radisson Collection Hyland Shanghai         0.059574
+                                                            Waldorf Astoria Shanghai On The Bund         0.026415
+                                                                                 Jin Jiang Hotel         0.075676
+                                                                     Four Seasons Hotel Shanghai         0.033600
+                                                         Courtyard By Marriott Shanghai Xujiahui         0.120000
+                                                                            The Shanghai Edition         0.018141
+                                   Doubletree By Hilton Shanghai Pudong - Present Welcome Cookie         0.064463
+                                                        Holiday Inn Shanghai Vista, An Ihg Hotel         0.115493
+                                                                                   Jing An Hotel         0.049032
+                                                                         The Land Hotel Shanghai         0.125000
+                                                                           Hengshan Garden Hotel         0.087500
+                                                                            Ocean Hotel Shanghai         0.086957
+                                          The Qube Hotel Shanghai - Pudong International Airport         0.097727
+                                                                                   Ifc Residence         0.039234
+                                                                 Rayfont Downtown Hotel Shanghai         0.135714
+                                                                             Sunrise On The Bund         0.074545
+                                                                        Pullman Shanghai Jing An         0.089362
+                                                                           Charms Hotel Shanghai         0.177273
+                                                     Shanghai Hongkou Sanzhi International Hotel         0.079245
+                                  J Hotel, Shanghai Tower - Above All Else, Overlooking The Bund         0.015123
+                                                                         The Eton Hotel Shanghai         0.152727
+                                                       Holiday Inn Shanghai Pudong, An Ihg Hotel         0.100000
+                                                                            Seventh Heaven Hotel         0.121212
+            Jinling Purple Mountain Hotel Shanghai（Shanghai Grand Trustel Purple Mountain Hotel）         0.101266
+                                                     Holiday Inn Shanghai Hongqiao, An Ihg Hotel         0.078846
+                                                                Evergreen Laurel Hotel, Shanghai         0.039269
+                                                          Bellagio By Mgm Shanghai - On The Bund         0.024852
+                                                                          Pullman Shanghai South         0.084536
+                                                                            Jinqiao Yachts Hotel         0.104110
+                                                               Ssaw Boutique Hotel Shanghai Bund         0.096552
+                                                           Hyatt Centric Zhongshan Park Shanghai         0.052830
+                               Royal International Hotel Shanghai - Pudong International Airport         0.102500
+                                                        Four Points By Sheraton Shanghai, Pudong         0.138983
+                                                            Parkline Century Park Hotel Shanghai         0.050000
+          Intercontinental Shanghai Ruijin, An Ihg Hotel - Downtown Historic Iconic Garden Hotel         0.057534
+                                                      Crowne Plaza Shanghai Pudong, An Ihg Hotel         0.085417
+                                                                           W Shanghai - The Bund         0.028669
+                                                                              Anting Villa Hotel         0.082353
+                                                                    Jing An Shangri-La, Shanghai         0.038498
+                                           The Hongta Hotel, A Luxury Collection Hotel, Shanghai         0.076786
+                                                                            Holiday Inn Downtown         0.111111
+                                                                     Okura Garden Hotel Shanghai         0.064062
+                                                                                Dorsett Shanghai         0.113514
+                                                            Shanghai Hengshan Moller Villa Hotel         0.079208
+                                                                Shanghai Marriott Hotel Parkview         0.067717
+                                                                  Regal Shanghai East Asia Hotel         0.128814
+                                                    Wyndham Grand Plaza Royale Oriental Shanghai         0.015905
+                                               Holiday Inn Express Zhabei Shanghai, An Ihg Hotel         0.264516
+                                                 Holiday Inn Shanghai Nanjing Road, An Ihg Hotel         0.081905
+                                                                          Urbn Boutique Shanghai         0.078505
+                                                                          Central Hotel Shanghai         0.087500
+                                                                              The Kunlun Jing An         0.084000
+                                                                            Merry Hotel Shanghai         0.115942
+                                                                                     W Barcelona         0.025000
+                                                               Majestic Hotel & Spa Barcelona Gl         0.041791
+                                                                            Hotel Arts Barcelona         0.155556
+                                                                                Hilton Barcelona         0.038498
+                                                        Grand Hotel Central, Small Luxury Hotels         0.019725
+                                                                           Colon Hotel Barcelona         0.024855
+                                                                                      Hotel 1898         0.030175
+                                                                     Renaissance Barcelona Hotel         0.023907
+                                                                       Hotel El Palace Barcelona         0.014726
+                                                                           Le Meridien Barcelona         0.018636
+                                                                                   Barcelo Sants         0.046237
+                                        Claris Hotel & Spa Gl, A Small Luxury Hotel Of The World         0.023864
+                                                                             Condes De Barcelona         0.027451
+                                                                               Seventy Barcelona         0.022281
+                                                                                  Ohla Barcelona         0.020673
+                                                        Intercontinental Barcelona, An Ihg Hotel         0.071667
+                                                                            Nobu Hotel Barcelona         0.020192
+                                                                  Hotel Neri - Relais & Chateaux         0.031298
+                                                                               Almanac Barcelona         0.020000
+                                       Hotel Sofia Barcelona, In The Unbound Collection By Hyatt         0.033466
+                                                                    Mandarin Oriental, Barcelona         0.007970
+                                                                                      Hotel Jazz         0.034818
+                                                                                  Monument Hotel         0.004913
+                                                                              Barcelona Princess         0.047253
+                                                                                   Barcelo Raval         0.039070
+                                                                                   Hotel Granvia         0.082692
+                                                                 Hotel Casa Fuster G.L Monumento         0.014973
+                                                                   Hilton Diagonal Mar Barcelona         0.040196
+                                                                          Melia Barcelona Sarria         0.033871
+                                                                         Sercotel Hotel Rosellon         0.037069
+                                                                      Melia Barcelona Sky 4* Sup         0.034599
+                                                                                Serras Barcelona         0.014617
+                                                                                H10 Cubik 4* Sup         0.336000
+                                                                            The One Barcelona Gl         0.024260
+                                                                                    Me Barcelona         0.012463
+                                                                                     Gaudi Hotel         0.065152
+                                                                          Mercer Hotel Barcelona         0.018182
+                                                                        Barcelona Hotel Colonial         0.033600
+                                                                       Catalonia Barcelona Plaza         0.044103
+                                                                        Hotel Pulitzer Barcelona         0.016196
+                                                                                Hotel Casa Bonay         0.025868
+                                                                     Boutique Hotel H10 Montcada         0.068293
+                                                                            Hotel Espana Ramblas         0.079630
+                                     Duquesa De Cardona Hotel 4 Sup By Duquessa Hotel Collection         0.013030
+                                                                                The Corner Hotel         0.040580
+                                                                    Petit Palace Boqueria Garden         0.021159
+                                                            Ac Hotel Barcelona Forum By Marriott         0.010966
+                                                                          Novotel Barcelona City         0.037168
+                                                                       Hotel Barcelona Universal         0.045652
+                                                        Cotton House Hotel, Autograph Collection         0.017872
+                                                                             Gallery Hotel 4 Sup         0.029655
+                                                                               El Avenida Palace         0.025688
+                                                                         H10 Metropolitan 4* Sup         0.051534
+                                                            Kimpton Vividora Hotel, An Ihg Hotel         0.076106
+                                                              Axel Hotel Barcelona - Adults Only         0.044211
+                                                                Innside By Melia Barcelona Apolo         0.020639
+                                                                      Hotel Miramar Barcelona Gl         0.031698
+                                                                     Hotel Continental Barcelona         0.077064
+                                                             Occidental Atenea Mar - Adults Only         0.045902
+                                                                         Occidental Diagonal 414         0.023864
+                                                                        Hotel Barcelona Catedral         0.059722
+                                                               Nh Collection Barcelona Constanza         0.042786
+                                                 Hotel Bagues, A Small Luxury Hotel Of The World         0.042487
+                                     Hotel Indigo Barcelona - Plaza Catalunya 4Sup, An Ihg Hotel         0.053165
+                                                                            H10 Marina Barcelona         0.039437
+                                                                          Hotel Barcelona Center         0.035745
+                                                                     Aparthotel Arai 4* Superior         0.067742
+                                                                                   Royal Ramblas         0.032090
+                                                                                    Hotel Rialto         0.041584
+                                                                           Casa Camper Barcelona         0.026708
+                                                                 Eurostars Grand Marina Hotel Gl         0.038914
+                                              Radisson Blu 1882 Hotel, Barcelona Sagrada Familia         0.022951
+                                                                              Catalonia Catedral         0.060563
+                                                                            Catalonia Magdalenes         0.056757
+                                                                       Occidental Barcelona 1929         0.032800
+                                                                          Hotel Regina Barcelona         0.038565
+                                                                                    Hotel Nouvel         0.027541
+                                                                                 H10 Universitat         0.082353
+                                                                                  Sixtytwo Hotel         0.068254
+                                                                             Silken Sant Gervasi         0.175000
+                                                                              Olivia Plaza Hotel         0.039091
+                                                                            H10 Urquinaona Plaza         0.051534
+                                                        Gran Hotel Havana 4Sup By Escampa Hotels         0.093333
+                                                                            Expo Hotel Barcelona         0.048315
+                                           Alexandra Barcelona Hotel, Curio Collection By Hilton         0.152727
+                                                      Four Points By Sheraton Barcelona Diagonal         0.117808
+                                                                                   Ohla Eixample         0.035593
+                                                                          H10 Art Gallery 4* Sup         0.080000
+                                                                                 H10 Raco Del Pi         0.092473
+                                                     Sir Victor Hotel, Part Of Sircle Collection         0.018625
+                                                                                   Andante Hotel         0.047253
+                                                                                   Hcc Montblanc         0.104878
+                                                                          H10 Casa Mimosa 4* Sup         0.064615
+                                                                            H10 Port Vell 4* Sup         0.027097
+                                                                               Allegro Barcelona         0.038565
+                                                                             Olivia Balmes Hotel         0.023768
+                                                              Boutique Hotel H10 Catalunya Plaza         0.025301
+                                                                                  Oriente Atiram         0.045055
+                                                                  Nh Collection Barcelona Podium         0.012500
+                                                                               Ilunion Barcelona         0.046995
+                                                                                    Okada Manila         0.046328
+                                                                                The Manila Hotel         0.059420
+                                                                              Lime Resort Manila         0.114286
+                                                                            Belmont Hotel Manila         0.110811
+                                                                                 Fairmont Makati         0.058156
+                                                                               Hotel101 - Manila         0.178261
+                                                                 Sofitel Philippine Plaza Manila         0.057746
+                                                                              Grand Hyatt Manila         0.030370
+                                                                              Dusit Thani Manila         0.089130
+                                                                           Sheraton Manila Hotel         0.045902
+                                                                       Diamond Hotel Philippines         0.082000
+                                                                             Kabayan Hotel Pasay         0.195238
+                                                                            The Peninsula Manila         0.045652
+                                                                                   Hilton Manila         0.049697
+                                                               Solaire Resort Entertainment City         0.041026
+                                                                          Kingsford Hotel Manila         0.113889
+                                                                             Sheraton Manila Bay         0.058993
+                                                                          New Coast Hotel Manila         0.078095
+                                                                         City Garden Grand Hotel         0.073214
+                                                                             The Bellevue Manila         0.105128
+                                                                       Bayview Park Hotel Manila         0.170213
+                                                                                       Hotel H2O         0.112000
+                                                                                 Privato Ortigas         0.234286
+                                                               The Mini Suites Eton Tower Makati         0.210256
+                                                                     Shangri-La The Fort, Manila         0.055782
+                                                                               Seda Vertis North         0.072072
+                                                           Valero Grand Suites By Swiss-Belhotel         0.138983
+                                                        Hotel Okura Manila - Staycation Approved         0.033058
+                                                                       Marco Polo Ortigas Manila         0.077670
+                                                                                    Luxent Hotel         0.106494
+                                           Holiday Inn Express Manila Newport City, An Ihg Hotel         0.120588
+                                                                           Red Planet Manila Bay         0.328000
+                                                                              Century Park Hotel         0.118182
+                                                                              City Garden Suites         0.150943
+                                                                             Makati Palace Hotel         0.205000
+                                                                            Azumi Boutique Hotel         0.149091
+                                                                           St Giles Hotel Makati         0.204878
+                                                      Crowne Plaza Manila Galleria, An Ihg Hotel         0.094253
+                                                             Tryp By Wyndham Mall Of Asia Manila         0.084848
+                                                                              Manila Lotus Hotel         0.234286
+                                                                    Red Hotel Cubao, Quezon City         0.205128
+                                                       Holiday Inn Manila Galleria, An Ihg Hotel         0.149091
+                                                                          Midas Hotel And Casino         0.085417
+                                                               Novotel Manila Araneta City Hotel         0.091111
+                                                                             Manila Prince Hotel         0.282759
+                                                                               Eurotel Pedro Gil         0.288889
+                                                                      Seda Bonifacio Global City         0.058993
+                                                                      Go Hotels Plus Mandaluyong         0.273333
+                                                                           Summit Hotel Magnolia         0.151852
+                                                                          Jinjiang Inn - Ortigas         0.241176
+                                                                              Savoy Hotel Manila         0.120588
+                                                                         Selah Pods Hotel Manila         0.315385
+                                                                                   Astoria Plaza         0.117143
+                                                                                  Eurotel Makati         0.313043
+                                                                         Intercontinental Manila         0.069492
+                                                                 Ramada Encore By Wyndham Makati         0.129032
+                                                                   Red Planet Manila Aseana City         0.227778
+                                                                              Manila Manor Hotel         0.320000
+                                                                          The Henry Hotel Manila         0.075472
+                                                                           Hotel Lucky Chinatown         0.141818
+                                                                Winford Resort And Casino Manila         0.097619
+                                                                             The B Hotel Alabang         0.131250
+                                                                   Go Hotels Manila Airport Road         0.256250
+                                                                                  Raffles Makati         0.036287
+                                                                                  Bsa Twin Tower         0.151852
+                                                                 Red Planet Manila Malate Mabini         0.258065
+                                                      Eastwood Richmonde Hotel - Newly Renovated         0.083168
+                                                                Hop Inn Hotel Aseana City Manila         0.227027
+                                                                        Go Hotels Ermita, Manila         0.250000
+                                                                    Hop Inn Hotel Alabang Manila         0.336000
+                                                             Best Western Hotel La Corona Manila         0.344000
+                                                                            New York Hotel Miami         0.763636
+                                                                                Alicia Apartment         0.282759
+                                                                              Myspace Hotel @Bgc         0.242424
+                                                                    Greenhills Elan Hotel Modern         0.195455
+                                                                              Eurotel North Edsa         0.241176
+                                                          Guijo Suites Makati - Quarantine Hotel         0.273333
+                                                                        Go Hotels Ortigas Center         0.241176
+                                                               Y2 Residence Hotel Managed By Hii         0.181818
+                                                                      Crown Regency Hotel Makati         0.145098
+                                                                               Astoria Greenbelt         0.114286
+                                                                                       I'M Hotel         0.087234
+                                                               Red Planet Cubao Aurora Boulevard         0.241176
+                                                                         Achievers Airport Hotel         0.221053
+                                                                          The Bayleaf Intramuros         0.147368
+                                                                       Red Planet Manila Binondo         0.270968
+                                                                               The Charter House         0.166667
+                                                                           Jinjiang Inn - Makati         0.164000
+                                                                         Summit Hotel Greenhills         0.137931
+                                                                           Fersal Hotel - Manila         0.363636
+                                                            Crimson Hotel Filinvest City, Manila         0.154717
+                                                                         Stone House Hotel Pasay         0.482353
