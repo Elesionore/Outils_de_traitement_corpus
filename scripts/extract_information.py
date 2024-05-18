@@ -1,9 +1,17 @@
-#extract_information.py
 import requests
 from bs4 import BeautifulSoup
 import json
 
 def extract_hotels_data(urls):
+    """
+    Extrait les données des hôtels à partir d'une liste d'URL.
+
+    Args:
+        urls (list): Liste des URL des pages d'hôtels.
+
+    Returns:
+        list: Liste des données des hôtels extraites.
+    """
     all_hotels = []
 
     for url in urls:
@@ -38,7 +46,7 @@ def extract_hotels_data(urls):
 
 
 if __name__ == "__main__":
-    # N'OUBLIEZ PAS DE METTRE ICI LES LIENS ACTUELS
+    # Liste des liens vers les pages d'hôtels (à mettre à jour si nécessaire)
     urls = [
         "https://www.booked.net/hotels/france/paris",
         "https://www.booked.net/hotels/us/ny/new-york",
@@ -47,6 +55,7 @@ if __name__ == "__main__":
         "https://www.booked.net/hotels/philippines/manila"
     ]
 
+    # Extraction des données des hôtels et affichage
     hotels_data = extract_hotels_data(urls)
     for hotel in hotels_data:
         print(hotel)

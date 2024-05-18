@@ -6,7 +6,7 @@ Le Concédant accorde au Licencié une licence non exclusive et sans redevance p
 
 Le Licencié ne doit pas utiliser le corpus à des fins commerciales. L'utilisation commerciale inclut, mais sans s'y limiter, la vente, la sous-licence ou la distribution du corpus à des fins lucratives ou dans le cadre de toute activité à but lucratif.
 
-Cette licence est accordée exclusivement aux enseignants et aux étudiants associés à l'Université de Nanterre, la Sorbonne Nouvelle ou l'INALCO. L'utilisation non autorisée par des personnes extérieures à ce groupe est strictement interdite.
+Cette licence est accordée exclusivement aux enseignants et aux étudiants associés à l'Université de Nanterre, la Sorbonne Nouvelle ou l'INALCO. L'utilisation non autorisée par des personnes extérieures à ce groupe est interdite.
 
 Cette licence prend effet à compter du 16 mai 2024 et se poursuivra indéfiniment, sauf résiliation par le Concédant comme prévu ci-dessous.
 

@@ -1,0 +1,31 @@
+name: hotels_data
+author: Solomiia Korol
+size: 25439 mots, 174,1 KiB
+formats:
+  - txt
+  - xlsx
+  - csv
+language: Anglais
+categories:
+  - name
+  - stars
+  - price
+  - description
+  - city
+  - country
+  - ratingValue
+  - ratingCount
+source: http://booked.net
+updated: 2024
+modality: ecrit
+license: CC BY-NC-SA (Attribution-NonCommercial-ShareAlike)
+description: |
+  Un ensemble de données contenant des informations sur les hôtels, y compris leur nom, le nombre d'étoiles, le prix, la description, la ville, le pays, la note attribuée et le nombre de notes.
+responsibility: |
+  Les utilisateurs sont responsables de l'utilisation appropriée de ces données, conformément à la licence spécifiée.
+bias: |
+  Les données peuvent être sujettes à des biais géographiques ou culturels en raison de leur source. Il est recommandé de prendre en compte ces biais lors de l'analyse et de l'interprétation des données.
+usage: |
+  Ces données peuvent être utilisées pour des analyses statistiques, des modélisations de recommandation d'hôtels ou des études sur les préférences des voyageurs.
+métriaue: |
+  Le rapport qualité-prix.
