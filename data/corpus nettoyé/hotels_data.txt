@@ -1,4 +1,4 @@
-Hotel Name: Ritz Paris
+﻿Hotel Name: Ritz Paris
 Star Rating: 5
 Price Range: 2379 USD
 Description: Located around 10 minutes' drive from Eiffel Tower, the 5-star luxury Ritz Paris features a buffet breakfast.
